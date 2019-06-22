@@ -13,3 +13,4 @@ My personal awesome list of resources
 ## Operations
 
 * [Web Hosting](hosting.md)
+* [Operating Systems](operating-systems.md)
