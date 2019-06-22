@@ -9,3 +9,7 @@ My personal awesome list of resources
 
 * [Software Crafters Strasbourg](https://www.meetup.com/Software-Crafters-Strasbourg/)
   * [@swcraftstras](https://twitter.com/swcraftstras) | [#swcraft](https://twitter.com/search?q=%23swcraft&src=typd)
+
+## Operations
+
+* [Hosting](hosting.md)
