@@ -14,3 +14,4 @@ My personal awesome list of resources
 
 * [Web Hosting](hosting.md)
 * [Operating Systems](operating-systems.md)
+* [Linux administration](linux-administration.md)
