@@ -5,3 +5,7 @@
 ```
 python3 -m http.server 80
 ```
+
+## Install NginX
+
+* [Install Nginx on Debian](https://nginx.org/en/linux_packages.html#Debian)
