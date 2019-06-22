@@ -12,4 +12,4 @@ My personal awesome list of resources
 
 ## Operations
 
-* [Hosting](hosting.md)
+* [Web Hosting](hosting.md)
