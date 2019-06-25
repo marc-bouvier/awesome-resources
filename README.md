@@ -17,3 +17,7 @@ My personal awesome list of resources
 * [Web Hosting](hosting.md)
 * [Operating Systems](operating-systems.md)
 * [Linux administration](linux-administration.md)
+
+## Measuring
+
+* [Count number of lines of code with `cloc`](https://github.com/AlDanial/cloc)
