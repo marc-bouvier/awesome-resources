@@ -28,3 +28,4 @@ My personal awesome list of resources
 * [Microservice architecture](https://youtu.be/1igv2rHGKfo?t=7614)
 
 ![Evolution of software architecture](evolution_of_software_architecture.png)
+> [Être architecte logiciel en 2018](https://www.youtube.com/watch?v=1igv2rHGKfo) - Cyrille Martraire, Arnauld Loyer - Devoxx 2018
