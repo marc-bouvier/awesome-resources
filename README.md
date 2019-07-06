@@ -21,3 +21,10 @@ My personal awesome list of resources
 ## Measuring
 
 * [Count number of lines of code with `cloc`](https://github.com/AlDanial/cloc)
+
+## Software architecture
+
+* [Enterprise global architecture guidelines](https://youtu.be/1igv2rHGKfo?t=8283)
+* [Microservice architecture](https://youtu.be/1igv2rHGKfo?t=7614)
+
+![Evolution of software architecture](evolution_of_software_architecture.png)
