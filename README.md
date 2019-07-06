@@ -12,6 +12,10 @@ My personal awesome list of resources
 * [Software Crafters Strasbourg](https://www.meetup.com/Software-Crafters-Strasbourg/)
   * [@swcraftstras](https://twitter.com/swcraftstras) | [#swcraft](https://twitter.com/search?q=%23swcraft&src=typd)
 
+## Methodologies
+
+* [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA)
+
 ## Operations
 
 * [Web Hosting](hosting.md)
@@ -28,4 +32,7 @@ My personal awesome list of resources
 * [Microservice architecture](https://youtu.be/1igv2rHGKfo?t=7614)
 
 ![Evolution of software architecture](evolution_of_software_architecture.png)
+![ADR - architecture decision records](adr_architecture_decision_records.png)
 > [Être architecte logiciel en 2018](https://www.youtube.com/watch?v=1igv2rHGKfo) - Cyrille Martraire, Arnauld Loyer - Devoxx 2018
+
+* [Coder sans peur du changement, avec la "même pas mal !" architecture hexagonale](https://www.youtube.com/watch?v=wZ7cxcU4iPE&t=25s)
