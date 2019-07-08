@@ -3,7 +3,8 @@
 [Back home](README.md)
 
 * [Prezto shell - zsh based shell](https://github.com/sorin-ionescu/prezto)
-* [Hyper electron based terminal](https://hyper.is/)
+* [Hyper.js - electron based terminal](https://hyper.is/)
+* [Install powerline fonts for windows 10](https://medium.com/@slmeng/how-to-install-powerline-fonts-in-windows-b2eedecace58)
 
 ## Know which distribution it is
 
