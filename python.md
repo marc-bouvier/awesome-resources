@@ -20,3 +20,5 @@ pip3 install --user pipenv
 # upgrade pipenv
  pip3 install --user --upgrade pipenv
 ```
+
+Add `~/.local/bin` to $PATH
