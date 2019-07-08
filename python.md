@@ -22,3 +22,12 @@ pip3 install --user pipenv
 ```
 
 Add `~/.local/bin` to $PATH
+
+In ~/.zprofile
+```
+path=(
+  /usr/local/{bin,sbin}
+  $HOME/.local/bin
+  $path
+)
+```
