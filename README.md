@@ -36,3 +36,8 @@ My personal awesome list of resources
 > [Être architecte logiciel en 2018](https://www.youtube.com/watch?v=1igv2rHGKfo) - Cyrille Martraire, Arnauld Loyer - Devoxx 2018
 
 * [Coder sans peur du changement, avec la "même pas mal !" architecture hexagonale](https://www.youtube.com/watch?v=wZ7cxcU4iPE&t=25s)
+
+## Presentations / Katas
+
+* [Presentation](presentations.md)
+* [Katas](katas.md)
