@@ -42,3 +42,7 @@
 
 * [Presentation](presentations.md)
 * [Katas](katas.md)
+
+## Languages
+
+* [Python](python.md)
