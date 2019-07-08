@@ -15,8 +15,8 @@ Pipenv mixes pip and virtualenv in 1 command. It allows using pipfile
 
 ```bash
 # install pipenv
-pip install --user pipenv
+pip3 install --user pipenv
 
 # upgrade pipenv
- pip install --user --upgrade pipenv
+ pip3 install --user --upgrade pipenv
 ```
