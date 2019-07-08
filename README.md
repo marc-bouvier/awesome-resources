@@ -26,6 +26,7 @@
 
 ## Software architecture
 
+* [No silver bullet - Frederick P. Brooks, Jr](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 * [Build your own technology radar](https://github.com/thoughtworks/build-your-own-radar)
 * [Enterprise global architecture guidelines](https://youtu.be/1igv2rHGKfo?t=8283)
 * [Microservice architecture](https://youtu.be/1igv2rHGKfo?t=7614)
