@@ -4,6 +4,7 @@ List of katas I presented (or will present)
 
 [Back home](README.md)
 
+* [Code kata](http://codekata.com/)
 * [Wikipédia : Coding Dojo](https://fr.wikipedia.org/wiki/Coding_dojo)
 * [codingdojo.org](http://codingdojo.org/)
 
