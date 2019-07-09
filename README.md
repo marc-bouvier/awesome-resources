@@ -46,3 +46,7 @@
 ## Languages
 
 * [Python](python.md)
+
+## Soft-skills / leadership
+
+* [Patrick Kua - The geek's guide to leasing teams](https://dev.tube/video/0PsGgnQc4eY)
