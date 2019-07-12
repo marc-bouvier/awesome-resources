@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=vWARXoZrx10
 
 What is the shared mission of the team?
 
-Définir un cadre.
+Définir et **formaliser** et expliciter un cadre.
 
 It is like the SLA (Service Level Agreement) in the API world.
 * Qu'est ce qu'on fait 
