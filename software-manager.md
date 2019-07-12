@@ -2,6 +2,7 @@ https://www.youtube.com/watch?v=vWARXoZrx10
 * [The manager's Path - Camille Fournier](https://www.amazon.fr/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * [The no asshole rule - Robert Sutton](https://www.amazon.fr/Asshole-Building-Civilised-Workplace-Surviving/dp/0749954035)
 * [Ingérables! - Christophe Chenut](https://www.amazon.fr/Ingérables-Comment-manager-talents-entreprise/dp/2749536782)
+* [The Engineer/Manager pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 
 What is the shared mission of the team?
 
