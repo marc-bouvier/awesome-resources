@@ -3,6 +3,8 @@ https://www.youtube.com/watch?v=vWARXoZrx10
 * [The no asshole rule - Robert Sutton](https://www.amazon.fr/Asshole-Building-Civilised-Workplace-Surviving/dp/0749954035)
 * [Ingérables! - Christophe Chenut](https://www.amazon.fr/Ingérables-Comment-manager-talents-entreprise/dp/2749536782)
 * [The Engineer/Manager pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
+* [@tammybutow](https://twitter.com/tammybutow)
+* [@alexqin](https://twitter.com/alexqin) - [Shaving my head made me a better programmer, Alex Qin, Skillshare, TechSummit 2017](https://www.youtube.com/watch?v=2s541U7I_z8)
 
 What is the shared mission of the team?
 
