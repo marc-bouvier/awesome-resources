@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=vWARXoZrx10
 * [@tammybutow](https://twitter.com/tammybutow)
 * [@alexqin](https://twitter.com/alexqin) - [Shaving my head made me a better programmer, Alex Qin, Skillshare, TechSummit 2017](https://www.youtube.com/watch?v=2s541U7I_z8)
 
+> Déléguer c'est renoncer. Un fois le point de départ et d'arrivée définis, il faut accepter que le chemin suivi ne sera pas celui que j'aurais choisi.
+
 What is the shared mission of the team?
 
 Définir un cadre.
