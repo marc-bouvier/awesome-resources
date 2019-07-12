@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=vWARXoZrx10
+* [The manager's Path - Camille Fournier](https://www.amazon.fr/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 
 What is the shared mission of the team?
 
