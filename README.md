@@ -52,3 +52,8 @@
 ## Soft-skills / leadership
 
 * [Patrick Kua - The geek's guide to leasing teams](https://dev.tube/video/0PsGgnQc4eY)
+
+## Transition écologique
+
+* [recycler 80% de ses déchets](https://m.facebook.com/story.php?story_fbid=2401188840100050&id=1459728890912721)
+
