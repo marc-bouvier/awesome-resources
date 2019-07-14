@@ -49,6 +49,11 @@
 
 * [Python](python.md)
 
+### Koans
+
+*[ReasonMl](https://github.com/gabrielperales/reasonml-koans/)
+
+
 ## Soft-skills / leadership
 
 * [Patrick Kua - The geek's guide to leasing teams](https://dev.tube/video/0PsGgnQc4eY)
