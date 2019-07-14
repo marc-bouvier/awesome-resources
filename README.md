@@ -13,8 +13,9 @@
 ## Methodologies
 
 * [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA)
+*[faire fonctionner une petite agence web](https://jp-lambert.me/à-laide-comment-faire-fonctionner-mon-agence-web-63cd9b9a9538)
 
-## Operations
+# Operations
 
 * [Web Hosting](hosting.md)
 * [Operating Systems](operating-systems.md)
