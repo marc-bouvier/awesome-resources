@@ -41,8 +41,8 @@
 > [Être architecte logiciel en 2018](https://www.youtube.com/watch?v=1igv2rHGKfo) - Cyrille Martraire, Arnauld Loyer - Devoxx 2018
 
 * [Coder sans peur du changement, avec la "même pas mal !" architecture hexagonale](https://www.youtube.com/watch?v=wZ7cxcU4iPE&t=25s)
-* [Hexagonal architecture with Élixir](https://fr.slideshare.net/mobile/nicolascarlo1/hexagonal-architecture-elixir)
-
+* [Hexagonal architecture with Elixir](https://fr.slideshare.net/mobile/nicolascarlo1/hexagonal-architecture-elixir)
+* [Coder sans peur du changement, avec la "même pas mal !" architecture hexagonale](https://www.youtube.com/watch?v=wZ7cxcU4iPE&t=25s)
 # Presentations / Katas
 
 * [Presentation](presentations.md)
