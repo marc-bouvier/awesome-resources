@@ -1,5 +1,5 @@
 
-## 2019-07-23 Koans - virtuel/physique
+## 2019-07-23 Software Crafters Strasbourg Dojo #4 - Koans
 
 Liens utiles pour l'événement
 
