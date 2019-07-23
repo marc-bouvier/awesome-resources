@@ -57,3 +57,26 @@ C'est assez pratique pour ceux qui n'ont pas l'habitude de participer à des doj
 * Rétrospective
 * On remet ça?
 * Réseautage, chips et boissons
+
+## Koan 1
+
+### Petite rétrospective du kata
+
+## Rétrospective du Dojo
+
+Exemples de questions qu'on peut se poser
+
+* A t-on appris quelquechose de nouveau?
+* Est ce que quelque chose d'innatendu est arrivé?
+* Sur quel aspect doit-on encore s'entrainer?
+* Que pourrait-on améliorer pour le prochain dojo?
+* Que'est ce qu'on saura faire mieux dans notre code de production demain
+
+* une chose qui t'a surpris(e)
+* une chose que tu as appris
+* une chose que tu souhaite utiliser
+
+
+## La suite?
+
+Que souhaitez vous faire la prochaine fois?
