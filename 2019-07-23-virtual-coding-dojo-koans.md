@@ -9,6 +9,10 @@ Liens utiles pour l'événement
 * [Sondage sur les envies de langages à essayer](https://frama.link/swcraftkoans)
 * [Résultats aggrégés du sondage](https://frama.link/swcraftkoanspoll)
 
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Pack d'extensions Live Share pour VS Code](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
+
+
 ### Préparation
 
 #### Intro - Qu'est-ce qu'un Dojo?
