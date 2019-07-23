@@ -4,7 +4,7 @@
 
 Liens utiles pour l'événement
 
-* [Visio conf sur Framatalk](https://framatalk.org/swcraftstras)
+* [Visio conf sur Framatalk](https://framatalk.org/swcraftstras) - https://framatalk.org/swcraftstras
 * [Slides d'intro](https://slides.com/marcwaiwai/coding-dojo#/)
 * [Evénement sur meetup.com](https://www.meetup.com/Software-Crafters-Strasbourg/events/263106483/)
 * [Sondage sur les envies de langages à essayer](https://frama.link/swcraftkoans)
