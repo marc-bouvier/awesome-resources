@@ -1,5 +1,6 @@
+# Software Crafters Strasbourg Dojo #4 - Koans
 
-## 2019-07-23 Software Crafters Strasbourg Dojo #4 - Koans
+2019-07-23 
 
 Liens utiles pour l'événement
 
@@ -13,9 +14,9 @@ Liens utiles pour l'événement
 * [Pack d'extensions Live Share pour VS Code](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
 
 
-### Préparation
+## Préparation
 
-#### Intro - Qu'est-ce qu'un Dojo?
+### Intro - Qu'est-ce qu'un Dojo?
 
 Une rencontre d'un groupe de codeurs qui se rassemblent pour coder, apprendre et s'amuser. Se trouver
 en dehors du contexte du travail et des échances. Echanger des astuces et apprendre les une des autres.
@@ -35,12 +36,24 @@ Les éléments d'un Dojo :
 * Présence d'une modération ou d'une facilitation
   * s'assurer que chacun puisse se sentir à l'aise pour apprendre et expérimenter
 
-En s'appuyant sur [The coding dojo handbook](https://leanpub.com/codingdojohandbook) par Emily Bache, 
-je vous propose ce dojo sur le thème des code koans. Cet exercice propose d'apprendre un langage 
+Pour préparer cet événement, je m'appuie sur [The coding dojo handbook](https://leanpub.com/codingdojohandbook) par Emily Bache.
+
+## Koans
+
+Je vous propose ce dojo sur le thème des code koans. Cet exercice propose d'apprendre un langage 
 de programmation ou une lib, framework en se basant sur une suite de tests en echec à corriger en 
 remplissant les trous.
 
+C'est assez pratique pour ceux qui n'ont pas l'habitude de participer à des dojos car, une fois le langage installé, l'exercice est en général prêt à l'emploi.
 
-### Feedback
+## Déroulement de la soirée
 
-* Is a mix of remote/local dojo a good thing?
+* Choix collégial d'un langage pour le premier exercice.
+* Partage du code et de l'IDE via VS Code live Share
+* L'URL de la session de partage Live share sera partagée sur https://framatalk.org/swcraftstras
+* Roulements (randori) pour permettre à chacun de coder
+  * Décidons ensemble de la façon dont nous voulons faire ces roulements
+* Codons ensemble
+* Rétrospective
+* On remet ça?
+* Réseautage, chips et boissons
