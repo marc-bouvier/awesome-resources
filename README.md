@@ -65,7 +65,8 @@
 
 ## Soft-skills / leadership
 
-* [Patrick Kua - The geek's guide to leasing teams](https://dev.tube/video/0PsGgnQc4eY)
+* [Patrick Kua - The geek's guide to leading teams](https://dev.tube/video/0PsGgnQc4eY)
+* [Eric Elliott - Software Roles and Titles](https://medium.com/javascript-scene/software-roles-and-titles-e3f0b69c410c)
 
 ## Transition écologique
 
