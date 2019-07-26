@@ -48,10 +48,11 @@
 * [DDD, en vrai pour le développeur (Cyrille Martraire)](https://www.youtube.com/watch?v=h3DLKrvp5V8)
 * [Évent modeling](https://eventmodeling.org/)
 
-# Presentations / Katas
+# Presentations / Katas / learning
 
 * [Presentation](presentations.md)
 * [Katas](katas.md)
+* [Learning](learning.md)
 
 ## Languages
 
