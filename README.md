@@ -53,7 +53,7 @@
 * [Presentation](presentations.md)
 * [Katas](katas.md)
 * [Learning](learning.md)
-
+  * https://dev.to/carlillo/do-you-want-to-be-a-top-developer-you-must-build-things-7-apps-to-build-2oje
 ## Languages
 
 * [Python](python.md)
