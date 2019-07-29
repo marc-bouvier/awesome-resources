@@ -63,6 +63,7 @@
 
 * [Python](python.md)
 * [Refactor to Kotlin](https://codelabs.developers.google.com/codelabs/java-to-kotlin)
+* [Elixir](elixir.md)
 
 ## Soft-skills / leadership
 
