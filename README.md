@@ -15,7 +15,7 @@
 
 * [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA)
 * [faire fonctionner une petite agence web](https://jp-lambert.me/à-laide-comment-faire-fonctionner-mon-agence-web-63cd9b9a9538)
-* [Liberating Structures](https://www.liberatingstructures.fr
+* [Liberating Structures](https://www.liberatingstructures.fr)
 * [Why is scrum not making your company very agile?](https://www.linkedin.com/feed/update/urn:li:activity:6556947030827237376)
 
 
