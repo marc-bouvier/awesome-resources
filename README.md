@@ -19,11 +19,12 @@
 * [Why is scrum not making your company very agile?](https://www.linkedin.com/feed/update/urn:li:activity:6556947030827237376)
 
 
-# Operations
+## Operations
 
 * [Web Hosting](hosting.md)
 * [Operating Systems](operating-systems.md)
 * [Linux administration](linux-administration.md)
+* [Kubernetes key concepts](https://towardsdatascience.com/key-kubernetes-concepts-62939f4bc08e)
 
 ## Measuring
 
@@ -48,21 +49,20 @@
 * [DDD, en vrai pour le développeur (Cyrille Martraire)](https://www.youtube.com/watch?v=h3DLKrvp5V8)
 * [Évent modeling](https://eventmodeling.org/)
 
-# Presentations / Katas / learning
+## Presentations / Katas / learning
 
 * [Presentation](presentations.md)
 * [Katas](katas.md)
 * [Learning](learning.md)
 
-## Languages
-
-* [Python](python.md)
-* [Refactor to Kotlin](https://codelabs.developers.google.com/codelabs/java-to-kotlin)
-
 ### Koans
 
 *[ReasonMl](https://github.com/gabrielperales/reasonml-koans/)
 
+## Languages
+
+* [Python](python.md)
+* [Refactor to Kotlin](https://codelabs.developers.google.com/codelabs/java-to-kotlin)
 
 ## Soft-skills / leadership
 
