@@ -57,7 +57,7 @@
 
 ### Koans
 
-*[ReasonMl](https://github.com/gabrielperales/reasonml-koans/)
+* [ReasonMl](https://github.com/gabrielperales/reasonml-koans/)
 
 ## Languages
 
