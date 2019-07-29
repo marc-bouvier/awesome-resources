@@ -78,3 +78,6 @@
 
 * [recycler 80% de ses déchets](https://m.facebook.com/story.php?story_fbid=2401188840100050&id=1459728890912721)
 
+## Data
+
+* [Decoupling database migrations from server startup: why and how](https://pythonspeed.com/articles/schema-migrations-server-startup/)
