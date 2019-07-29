@@ -17,6 +17,8 @@
 * [faire fonctionner une petite agence web](https://jp-lambert.me/à-laide-comment-faire-fonctionner-mon-agence-web-63cd9b9a9538)
 * [Liberating Structures](https://www.liberatingstructures.fr)
 * [Why is scrum not making your company very agile?](https://www.linkedin.com/feed/update/urn:li:activity:6556947030827237376)
+* [Arrêtons d'être arrageants](https://blog.goood.com/2019/07/23/pour-etre-agiles-arretons-detre-arrangeants/amp/)
+
 
 
 ## Operations
