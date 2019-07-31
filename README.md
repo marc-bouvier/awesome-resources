@@ -1,3 +1,8 @@
+## working environ ment
+
+* [12 Things You Didn't Plan for When You Hired Remote Employees](https://getlighthouse.com/blog/didnt-plan-hiring-remote-employees/)
+
+
 ## Tools
 
 * [Visual Studio Live Share](https://visualstudio.microsoft.com/fr/services/live-share/?rr=https%3A%2F%2Fwww.bing.com%2F) - Pair / Mob programming online with voice support.
