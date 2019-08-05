@@ -85,3 +85,8 @@
 ## Data
 
 * [Decoupling database migrations from server startup: why and how](https://pythonspeed.com/articles/schema-migrations-server-startup/)
+
+
+## Freelance
+
+* [  booster son chiffre d'affaires avec le portage salarial    ]( https://www.linkedin.com/posts/prium-portage-555295153_les-conseils-pour-booster-son-chiffre-daffaires-ugcPost-6562964495088660480-mR5A)
