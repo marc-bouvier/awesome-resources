@@ -23,8 +23,7 @@
 * [Liberating Structures](https://www.liberatingstructures.fr)
 * [Why is scrum not making your company very agile?](https://www.linkedin.com/feed/update/urn:li:activity:6556947030827237376)
 * [Arrêtons d'être arrageants](https://blog.goood.com/2019/07/23/pour-etre-agiles-arretons-detre-arrangeants/amp/)
-
-
+* [Dénicher le faux scrum agile en entretien](https://jp-lambert.me/comment-d%C3%A9nicher-le-faux-scrum-agile-en-entretien-1c8586fdcfe2)
 
 ## Operations
 
