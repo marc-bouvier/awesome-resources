@@ -1,7 +1,11 @@
-## working environ ment
+## working environment
 
 * [12 Things You Didn't Plan for When You Hired Remote Employees](https://getlighthouse.com/blog/didnt-plan-hiring-remote-employees/)
 
+## Cloud
+
+* [Clever cloud] (https://www.clever-cloud.com)
+  French. 
 
 ## Tools
 
