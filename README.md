@@ -4,7 +4,7 @@
 
 ## Cloud
 
-* [Clever cloud] (https://www.clever-cloud.com)
+* [Clever cloud](https://www.clever-cloud.com)
   French.
 * [Anssi - european secure cloud label](https://www.ssi.gouv.fr/en/actualite/european-secure-cloud-a-new-label-for-cloud-service-providers/)
 
