@@ -96,6 +96,7 @@
 
 ## Freelance
 
+* [freelance page](freelance.md)
 * [  booster son chiffre d'affaires avec le portage salarial    ]( https://www.linkedin.com/posts/prium-portage-555295153_les-conseils-pour-booster-son-chiffre-daffaires-ugcPost-6562964495088660480-mR5A)
 * [Comparaison statuts juridiques indépendant](https://www.lecoindesentrepreneurs.fr/tableau-comparatif-des-structures-unipersonnelles/)
 
