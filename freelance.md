@@ -17,3 +17,6 @@
 * https://bpifrance-creation.fr/encyclopedie/differentes-facons-dentreprendre/entreprendre-autrement/cooperatives-dactivites
 * https://www.economie.gouv.fr/ess/cooperative-dactivites-et-demplois-cest-quoi
 
+assister a une reunion d'information collective.
+demander pour la mutuelle et le regime de secu.
+
