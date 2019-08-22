@@ -1,7 +1,7 @@
 # Freelance business creation
 
 ## Checklist
-
+* etude de marché : https://www.creerentreprise.fr/methodes-etude-de-marche/
 * create bank account
 * transfer baldir.fr
 * create contact email protonmail
