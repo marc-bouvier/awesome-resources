@@ -1,7 +1,14 @@
 # Cadre de l'activité
 
 ## FIXEZ LE CADRE DE VOTRE ACTIVITÉ
-Il est important dans un premier temps d’expliciter les raisons et les objectifs pour l
+
+Source
+
+> http://blog-du-consultant.fr/les-4-etapes-pour-lancer-son-activite-de-conseil/
+
+
+Il
+est important dans un premier temps d’expliciter les raisons et les objectifs pour l
 esquels vous souhaitez lancer une activité de conseil indépendant. Objectifs
 d’indépendance, de flexibilité des horaires, de développement personnel, d’action sociale, etc. Prenez le temps de lister une cinquantaine d’éléments (minimum) correspondant à ce dont vous ne voulez pas (ou plus), à ce que vous aimeriez et à la façon dont cela se traduirait dans la vie de tous les jours.
 
