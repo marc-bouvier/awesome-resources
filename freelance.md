@@ -20,3 +20,7 @@
 assister a une reunion d'information collective.
 demander pour la mutuelle et le regime de secu.
 
+## ressources
+
+* https://www.creerentreprise.fr/
+
