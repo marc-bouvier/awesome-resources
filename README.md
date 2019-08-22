@@ -57,7 +57,7 @@
 * [Katas](katas.md)
 * [Learning](learning.md)
 
-### Koans
+## Koans
 
 * [ReasonMl](https://github.com/gabrielperales/reasonml-koans/)
 
