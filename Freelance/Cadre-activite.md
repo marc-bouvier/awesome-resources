@@ -47,7 +47,8 @@ mantenabilite, ux design, workshops, blog, code kata, dojo, koans, rgpd,
 gdpr, devsecops, cloud français, secnumcloud, anssi, accessibilité web, API first,
 Java, kotlin, ecmascript, vuejs, nodejs, python, urgence écologique, permaculture, 
 agro foresterie, planter des arbres partout, terres de liens, terre et humanisme,
-green it, 
+
+green it, rating own dog food
 
 
 
