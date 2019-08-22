@@ -23,6 +23,8 @@
   * [@swcraftstras](https://twitter.com/swcraftstras)
   * [#swcraft](https://twitter.com/search?q=%23swcraft&src=typd)
   * [Coding Dojos](coding_dojos.md)
+* [Software craftsmanship Mulhouse](https://www.meetup.com/fr-FR/Software-Craftsmanship-Mulhouse/)
+
 
 ## Methodologies
 
