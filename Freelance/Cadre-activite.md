@@ -34,4 +34,13 @@ Cela aura un triple avantage :
 
 C’est une étape essentielle que peu de consultants formalisent de façon sérieuse, elle est pourtant la source de votre image et de votre communication. Pour ma part, je n’hésite pas à partir seul deux ou trois jours dans des lieux qui ont une résonance toute personnelle et à poser ces bases fondamentales.
 
+## Le cadre de mon activité
+
+ecologie, economie d'énergie, local, open source, entraide, apprentissage, mentoring, 
+travail bien fait, [programmer's oath](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html), tdd, ddd, bdd, accompagnement du client, 
+coaching, faculitation, exoertise technique, audit, front, back, devops, 
+integration continue, deploielent continu, [trunk based development](https://trunkbaseddevelopment.com/), 
+meetups, veille techno, conferencier, agilité, feedback, équipe apprenante, 
+mantenabilite, ux design, workshops, blog, code kata, dojo, koans, rgpd, 
+gdpr, devsecops, cloud français, secnumcloud, anssi, accessibilité web
  
