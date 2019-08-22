@@ -23,4 +23,5 @@ demander pour la mutuelle et le regime de secu.
 ## ressources
 
 * https://www.creerentreprise.fr/
+* http://blog-du-consultant.fr/les-4-etapes-pour-lancer-son-activite-de-conseil/
 
