@@ -1,6 +1,6 @@
 # Cadre de l'activité
 
-[Retour](README.md) - [Freelance](freelance.md)
+[Retour](/README.md) - [Freelance](/freelance.md)
 
 ## FIXEZ LE CADRE DE VOTRE ACTIVITÉ
 
