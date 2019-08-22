@@ -1,5 +1,7 @@
 # Freelance business creation
 
+[Retour](README.md)
+
 ## Checklist
 * etude de marché : https://www.creerentreprise.fr/methodes-etude-de-marche/
 * create bank account
@@ -19,6 +21,10 @@
 
 assister a une reunion d'information collective.
 demander pour la mutuelle et le regime de secu.
+
+## Fixer le cadre de l'activité
+
+[Cadre de l'activité](/Freelance/Cadre-activite.md)
 
 ## ressources
 
