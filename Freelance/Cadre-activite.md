@@ -40,9 +40,11 @@ C’est une étape essentielle que peu de consultants formalisent de façon sér
 
 ecologie, economie d'énergie, local, open source, entraide, apprentissage, mentoring, 
 travail bien fait, [programmer's oath](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html), tdd, ddd, bdd, accompagnement du client, 
-coaching, faculitation, exoertise technique, audit, front, back, devops, 
+coaching, facilitation, exoertise technique, audit, front, back, devops, 
 integration continue, deploielent continu, [trunk based development](https://trunkbaseddevelopment.com/), 
 meetups, veille techno, conferencier, agilité, feedback, équipe apprenante, 
 mantenabilite, ux design, workshops, blog, code kata, dojo, koans, rgpd, 
-gdpr, devsecops, cloud français, secnumcloud, anssi, accessibilité web
+gdpr, devsecops, cloud français, secnumcloud, anssi, accessibilité web, API first,
+Java, kotlin, ecmascript, vuejs, nodejs, python, 
+
  
