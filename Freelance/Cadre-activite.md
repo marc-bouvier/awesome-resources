@@ -48,7 +48,7 @@ gdpr, devsecops, cloud français, secnumcloud, anssi, accessibilité web, API fi
 Java, kotlin, ecmascript, vuejs, nodejs, python, urgence écologique, permaculture, 
 agro foresterie, planter des arbres partout, terres de liens, terre et humanisme,
 
-green it, rating own dog food
+green it, rating own dog food, low tech, transition écologique
 
 
 
