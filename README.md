@@ -91,4 +91,6 @@
 
 [Freelance](freelance.md)
 
+## Blogs
 
+* [Ton Jeffries]( https://ronjeffries.com)
