@@ -77,6 +77,7 @@
 ## Transition écologique
 
 * [recycler 80% de ses déchets](https://m.facebook.com/story.php?story_fbid=2401188840100050&id=1459728890912721)
+* [Ferme des Quatre Temps: quelles leçons pour la politique de l'innovation en agriculture?](https://www.linkedin.com/pulse/ferme-des-quatre-temps-quelles-le%25C3%25A7ons-pour-la-de-en-brice-thollet/?trackingId=b2nS1YkCS1%2BWCc4aVsJkJw%3D%3D)
 
 ## Data
 
