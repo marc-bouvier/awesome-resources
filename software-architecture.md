@@ -17,4 +17,5 @@
 * [Hexagonal architecture with Elixir](https://fr.slideshare.net/mobile/nicolascarlo1/hexagonal-architecture-elixir)
 * [Coder sans peur du changement, avec la "même pas mal !" architecture hexagonale](https://www.youtube.com/watch?v=wZ7cxcU4iPE&t=25s)
 * [DDD, en vrai pour le développeur (Cyrille Martraire)](https://www.youtube.com/watch?v=h3DLKrvp5V8)
-* [Évent modeling](https://eventmodeling.org/)
+* [Event modeling](https://eventmodeling.org/)
+* [Programming as Theory-Building - Peter Naur 1985](http://pages.cs.wisc.edu/~remzi/Naur.pdf)
