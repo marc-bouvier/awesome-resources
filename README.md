@@ -88,6 +88,11 @@
 
 [Sécurité](security.md)
 
+## Ethics
+
+* [ULRIKA MALMGREN - THE ONE WITH THE COMPILER ALWAYS WINS](http://videos.ncrafts.io/video/338474722)
+* [The code I am still ashamed of](https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/)
+* [The programmer's oath](http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
 
 ## Freelance
 
