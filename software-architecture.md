@@ -27,3 +27,4 @@
 * [Example mapping](https://cucumber.io/blog/example-mapping-introduction/)
 * [Event Storming](https://www.eventstorming.com/)
 * [Wardley maps (value chain mapping)](https://learnwardleymapping.com/)
+* [Hiptest](https://hiptest.com/)
