@@ -30,4 +30,4 @@
 * [BDD overview](https://cucumber.io/docs/bdd/overview/)
 * [Hiptest](https://hiptest.com/)
 
-* [S.O.L.I.D inforgraphy](https://gearsoftesting.org/testable-architecture.html)
+* [S.O.L.I.D infography](https://gearsoftesting.org/testable-architecture.html)
