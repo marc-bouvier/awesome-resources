@@ -29,3 +29,5 @@
 * [Wardley maps (value chain mapping)](https://learnwardleymapping.com/)
 * [BDD overview](https://cucumber.io/docs/bdd/overview/)
 * [Hiptest](https://hiptest.com/)
+
+* [S.O.L.I.D inforgraphy](https://gearsoftesting.org/testable-architecture.html)
