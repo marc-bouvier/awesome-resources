@@ -26,9 +26,17 @@
 
 * [Example mapping](https://cucumber.io/blog/example-mapping-introduction/)
 * [Event Storming](https://www.eventstorming.com/)
-* [Wardley maps (value chain mapping)](https://learnwardleymapping.com/)
+
+
+## Wardley maps
+
+
+* https://github.com/wardley-maps-community/awesome-wardley-maps* [Wardley maps (value chain mapping)](https://learnwardleymapping.com/)
 * [Mapirati, an army of wardley mappers](https://www.mapirati.com/)
 * [Simon wardley thread about letting IT un charge and learn business, and advices for CEO](https://mobile.twitter.com/swardley/status/1172413586192269312)
+
+
+## Bdd
 
 * [BDD overview](https://cucumber.io/docs/bdd/overview/)
 * [Hiptest](https://hiptest.com/)
