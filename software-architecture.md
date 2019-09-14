@@ -37,6 +37,13 @@
 * [Simon wardley thread about letting IT un charge and learn business, and advices for CEO](https://mobile.twitter.com/swardley/status/1172413586192269312)
 
 
+## Microservices architecture
+
+* [Distributed transaction - Saga pattern](https://microservices.io/patterns/data/saga.html)
+* [Thoughtworks from monolith to πservive
+* [Martin Fowler - Micriservices architecture] (https://martinfowler.com/articles/microservices.html)
+* [Martin Fowler - microservices ressource guide] (https://martinfowler.com/microservices/)
+
 ## Bdd
 
 * [BDD overview](https://cucumber.io/docs/bdd/overview/)
