@@ -27,6 +27,8 @@
 * [Example mapping](https://cucumber.io/blog/example-mapping-introduction/)
 * [Event Storming](https://www.eventstorming.com/)
 
+* [Bulletproof Java Enterprise Applications for The Hard Production Life - Sebastian Daschner](https://www.youtube.com/watch?v=OsZfhKiePWM)
+
 
 ## Wardley maps
 
