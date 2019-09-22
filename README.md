@@ -26,7 +26,9 @@
 * [Software craftsmanship Mulhouse](https://www.meetup.com/fr-FR/Software-Craftsmanship-Mulhouse/)
 
 
-## Methodologies
+## Methodology
+
+* [Idéal flow - identify thé right problèmes to solve. That cause pain](   https://leanpub.com/ideaflow  )
 
 * [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA)
 * [faire fonctionner une petite agence web](https://jp-lambert.me/à-laide-comment-faire-fonctionner-mon-agence-web-63cd9b9a9538)
