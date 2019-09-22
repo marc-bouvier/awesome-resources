@@ -54,3 +54,8 @@
 ## Practices worth following
 
 * [S.O.L.I.D infography](https://gearsoftesting.org/testable-architecture.html)
+
+
+## people Wirth following
+
+* [Michael Feathers blog]( https://michaelfeathers.silvrback.com/   )
