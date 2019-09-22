@@ -38,6 +38,7 @@
 * [Dénicher le faux scrum agile en entretien](https://jp-lambert.me/comment-d%C3%A9nicher-le-faux-scrum-agile-en-entretien-1c8586fdcfe2)
 * [Dôme thougts on estimations] (https://ronjeffries.com/articles/019-01ff/estimation-again/Index.html)
 
+* [Agile un 4 steps](   https://kalele.io/what-you-need-from-agile/)
 
 ## Operations
 
