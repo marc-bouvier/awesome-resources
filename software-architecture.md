@@ -59,3 +59,4 @@
 ## people Wirth following
 
 * [Michael Feathers blog]( https://michaelfeathers.silvrback.com/   )
+* [Ron Jeffries blog] (https://www.ronjeffries.com/)
