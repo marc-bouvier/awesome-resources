@@ -46,6 +46,8 @@
 * [Operating Systems](operating-systems.md)
 * [Linux administration](linux-administration.md)
 * [Kubernetes key concepts](https://towardsdatascience.com/key-kubernetes-concepts-62939f4bc08e)
+* https://www.gitops.tech/
+
 
 ## Measuring
 
