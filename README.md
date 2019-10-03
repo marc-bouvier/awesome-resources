@@ -114,3 +114,10 @@
 ## Permaculture
 
 [permaculture](permaculture.md)
+
+
+## organisation culture
+
+* [  Shopify periodically removes *all* recurring internal meetings from everyone's calendar. Reactions are mixed of course, but I love working at a company where leadership is not afraid afraid to shake things up ](  Shopify periodically removes *all* recurring internal meetings from everyone's calendar. Reactions are mixed of course, but I love working at a company where leadership is not afraid afraid to shake things up.
+
+https://twitter.com/pauldowman/status/1179414660254179330  )
