@@ -72,7 +72,7 @@
 
 * [Python](python.md)
 * [Refactor to Kotlin](https://codelabs.developers.google.com/codelabs/java-to-kotlin)
-* [Elixir](elixir.md)
+* [functional kotlin introduction with arrow] (https://www.raywenderlich.com/9527-functional-programming-with-kotlin-and-arrow-getting-started) [Elixir](elixir.md)
 
 ## Soft-skills / leadership
 
