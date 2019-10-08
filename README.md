@@ -73,6 +73,8 @@
 * [Python](python.md)
 * [Refactor to Kotlin](https://codelabs.developers.google.com/codelabs/java-to-kotlin)
 * [functional kotlin introduction with arrow] (https://www.raywenderlich.com/9527-functional-programming-with-kotlin-and-arrow-getting-started) [Elixir](elixir.md)
+* [Css best practices](https://dev.to/adrianbdesigns/improve-your-css-with-these-5-principles-35jd)
+
 
 ## Soft-skills / leadership
 
