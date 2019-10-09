@@ -74,6 +74,7 @@
 * [Refactor to Kotlin](https://codelabs.developers.google.com/codelabs/java-to-kotlin)
 * [functional kotlin introduction with arrow] (https://www.raywenderlich.com/9527-functional-programming-with-kotlin-and-arrow-getting-started) [Elixir](elixir.md)
 * [Css best practices](https://dev.to/adrianbdesigns/improve-your-css-with-these-5-principles-35jd)
+* [Elixir modular application layering](https://aaronrenner.io/2019/09/18/application-layering-a-pattern-for-extensible-elixir-application-design.html)
 
 
 ## Soft-skills / leadership
