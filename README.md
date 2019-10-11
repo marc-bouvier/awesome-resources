@@ -24,7 +24,8 @@
   * [#swcraft](https://twitter.com/search?q=%23swcraft&src=typd)
   * [Coding Dojos](coding_dojos.md)
 * [Software craftsmanship Mulhouse](https://www.meetup.com/fr-FR/Software-Craftsmanship-Mulhouse/)
-
+* [Lonely coaches sodality - google group](  https://groups.google.com/forum/m/#!forum/lonely-coaches-sodality)
+ 
 
 ## Methodology
 
