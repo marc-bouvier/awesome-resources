@@ -2,6 +2,13 @@
 
 * [12 Things You Didn't Plan for When You Hired Remote Employees](https://getlighthouse.com/blog/didnt-plan-hiring-remote-employees/)
 
+## accessibility
+
+* [tiny habits & accessibility with Elm](https://youtu.be/yHBUKYl3gjc)
+
+
+
+
 ## Cloud
 
 * [Clever cloud](https://www.clever-cloud.com)
