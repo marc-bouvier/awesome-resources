@@ -109,7 +109,10 @@
 
 ## Blogs
 
-* [Ton Jeffries]( https://ronjeffries.com)
+* [Ron Jeffries]( https://ronjeffries.com)
+* https://dev.to/seattledataguy/11-of-the-best-engineering-blogs-2aah
+
+
 
 ## webmaster
 
