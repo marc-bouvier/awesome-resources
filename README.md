@@ -130,7 +130,16 @@
 
 [permaculture](permaculture.md)
 
+## Contributing open source
 
+* [First timer issues in open source projects](https://www.firsttimersonly.com/)
+* [Mobilizon - open source alternative to facebook event by framasoft](https://framagit.org/framasoft/mobilizon/)
+  * Elixir
+  * VueJs
+  * GitLab
+  * Docker
+  * GraphQL
+  
 ## organisation culture
 
 * [  Shopify periodically removes *all* recurring internal meetings from everyone's calendar. Reactions are mixed of course, but I love working at a company where leadership is not afraid afraid to shake things up ](https://twitter.com/pauldowman/status/1179414660254179330  )
