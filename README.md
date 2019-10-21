@@ -114,6 +114,11 @@
 * [The programmer's oath](http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
 * [Post meritocracy manifesto](https://postmeritocracy.org/)
 
+So basically: fuck Thiel and all the SV gatekeepers who follow him, and their specious arguments that limit humanity and perpetuate a grinding, crushing inequality that impoverishes us all. Fin.
+
+https://twitter.com/jezhumble/status/1185954360338968581
+
+
 ## Freelance
 
 [Freelance](freelance.md)
