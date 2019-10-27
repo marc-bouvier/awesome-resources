@@ -3,7 +3,7 @@
 [Retour](README.md)
 
 
-* [Code quality in context] (https://adamtornhill.com/articles/code-quality-in-context/why-i-write-dirty-code.html)
+* [Code quality in context](https://adamtornhill.com/articles/code-quality-in-context/why-i-write-dirty-code.html)
 * [Trunk based development](https://trunkbaseddevelopment.com/)
 * [GitFlow Workflow (Atlassian)](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 * [SVN to GIT migration (Atlassian)](https://www.atlassian.com/git/tutorials/svn-to-git-prepping-your-team-migration)
@@ -13,6 +13,7 @@
 * [Build your own technology radar](https://github.com/thoughtworks/build-your-own-radar)
 * [Enterprise global architecture guidelines](https://youtu.be/1igv2rHGKfo?t=8283)
 * [Microservice architecture](https://youtu.be/1igv2rHGKfo?t=7614)
+* [How to fail badly at microservices](https://www.youtube.com/watch?v=X0tjziAQfNQ)
 
 ![Evolution of software architecture](evolution_of_software_architecture.png)
 
