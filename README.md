@@ -128,7 +128,9 @@ https://twitter.com/jezhumble/status/1185954360338968581
 * [Ron Jeffries]( https://ronjeffries.com)
 * https://dev.to/seattledataguy/11-of-the-best-engineering-blogs-2aah
 
+## Functional programming
 
+* [DevTernity 2018: Scott Wlaschin - Functional Design Patterns ](https://www.youtube.com/watch?v=ucnWLfBA1dc)
 
 ## webmaster
 
