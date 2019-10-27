@@ -1,5 +1,10 @@
 # Software architecture
 
+## tips 
+
+* review your own code from 3 months ago (this will work on your pride)
+
+
 [Retour](README.md)
 
 
