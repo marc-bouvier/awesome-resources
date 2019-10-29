@@ -155,3 +155,7 @@ https://twitter.com/jezhumble/status/1185954360338968581
 ## organisation culture
 
 * [  Shopify periodically removes *all* recurring internal meetings from everyone's calendar. Reactions are mixed of course, but I love working at a company where leadership is not afraid afraid to shake things up ](https://twitter.com/pauldowman/status/1179414660254179330  )
+
+## Motivation
+
+* [« Bien sûr que tu vas rater, alors fait le ! » Bruno Muschio (Navo) - 10 clés de la réussite](https://www.youtube.com/watch?v=5TcMSg9lDUc)
