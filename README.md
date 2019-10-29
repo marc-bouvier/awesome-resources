@@ -62,8 +62,10 @@
 * [Count number of lines of code with `cloc`](https://github.com/AlDanial/cloc)
 * [tests et couverture de code](https://blog.ippon.fr/2019/07/22/80-ou-90-de-couverture-de-tests/)
 
-## Software architecture
+## Softwares architecture
 
+
+[Tests done the right way](https://gitlab.com/crafting-software/katas/) TDD, solid principles repo
 [Software architecture](software-architecture.md)
 
 ## Presentations / Katas / learning
