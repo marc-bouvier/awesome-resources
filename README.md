@@ -1,6 +1,8 @@
 ## working environment
 
 * [12 Things You Didn't Plan for When You Hired Remote Employees](https://getlighthouse.com/blog/didnt-plan-hiring-remote-employees/)
+* [most important mistakes as a développer](https://twitter.com/reverentgeek/status/1189546814074171392)
+
 
 ## accessibility
 
