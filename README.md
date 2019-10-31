@@ -105,7 +105,7 @@
 ## Data
 
 * [Decoupling database migrations from server startup: why and how](https://pythonspeed.com/articles/schema-migrations-server-startup/)
-
+* [public APIs](https://github.com/public-apis/public-apis/blob/master/README.md)
 ## Sécurité
 
 [Sécurité](security.md)
