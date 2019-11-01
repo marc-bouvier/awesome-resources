@@ -34,7 +34,7 @@
   * [Coding Dojos](coding_dojos.md)
 * [Software craftsmanship Mulhouse](https://www.meetup.com/fr-FR/Software-Craftsmanship-Mulhouse/)
 * [Lonely coaches sodality - google group](  https://groups.google.com/forum/m/#!forum/lonely-coaches-sodality)
- 
+* [Building Trust in Teams - Richard Campbell](https://www.youtube.com/watch?v=sQCRvdBZHKA) 
 
 ## Methodology
 
