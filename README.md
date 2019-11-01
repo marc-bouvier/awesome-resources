@@ -33,9 +33,12 @@
   * [#swcraft](https://twitter.com/search?q=%23swcraft&src=typd)
   * [Coding Dojos](coding_dojos.md)
 * [Software craftsmanship Mulhouse](https://www.meetup.com/fr-FR/Software-Craftsmanship-Mulhouse/)
+
+## Leadership
+
 * [Lonely coaches sodality - google group](  https://groups.google.com/forum/m/#!forum/lonely-coaches-sodality)
 * [Building Trust in Teams - Richard Campbell](https://www.youtube.com/watch?v=sQCRvdBZHKA) 
-
+* [Building Great Teams - Donna Edwards](https://www.youtube.com/watch?v=ErrWPojWFp4)
 ## Methodology
 
 * [Idéal flow - identify thé right problèmes to solve. That cause pain](   https://leanpub.com/ideaflow  )
