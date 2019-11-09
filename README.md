@@ -17,7 +17,7 @@
   French.
 * [Anssi - european secure cloud label](https://www.ssi.gouv.fr/en/actualite/european-secure-cloud-a-new-label-for-cloud-service-providers/)
 * [opérateurs cloud compliant secnumcloud](https://www.ssi.gouv.fr/entreprise/qualifications/prestataires-de-services-de-confiance-qualifies/prestataires-de-service-dinformatique-en-nuage-secnumcloud/)
-
+* [Dev oops Pierre by Antoine Grégoire](https://www.youtube.com/watch?v=Pg3uPXTDFbk&feature=emb_title)
 
 
 ## Tools
