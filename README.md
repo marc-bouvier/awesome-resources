@@ -52,7 +52,10 @@
 * [Dôme thougts on estimations] (https://ronjeffries.com/articles/019-01ff/estimation-again/Index.html)
 
 * [Agile un 4 steps](   https://kalele.io/what-you-need-from-agile/)
+* [workshop for definition of done](
 
+
+https://medium.com/the-new-agilist/how-to-define-done-for-your-scrum-team-30b7f8ed073b)
 ## Operations
 
 * [Web Hosting](hosting.md)
