@@ -3,6 +3,11 @@
 * [12 Things You Didn't Plan for When You Hired Remote Employees](https://getlighthouse.com/blog/didnt-plan-hiring-remote-employees/)
 * [most important mistakes as a développer](https://twitter.com/reverentgeek/status/1189546814074171392)
 
+## Workflow
+
+* [Commitizen - Simple commit conventions for internet citizens.](http://commitizen.github.io/cz-cli/)
+* [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog)
+* [Conventional Changelog - Generate a CHANGELOG from git metadata](https://github.com/conventional-changelog/conventional-changelog)
 
 ## accessibility
 
