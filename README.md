@@ -8,6 +8,7 @@
 * [Commitizen - Simple commit conventions for internet citizens.](http://commitizen.github.io/cz-cli/)
 * [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog)
 * [Conventional Changelog - Generate a CHANGELOG from git metadata](https://github.com/conventional-changelog/conventional-changelog)
+* [vscode-changelog-generator](https://github.com/axetroy/vscode-changelog-generator)
 
 ## accessibility
 
