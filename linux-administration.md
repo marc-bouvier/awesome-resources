@@ -7,7 +7,7 @@
 sudo apt-get install zsh
 ```
 * [Prezto shell - zsh based shell](https://github.com/sorin-ionescu/prezto)
-In Vs Code :  Ctrl + Shift + p -> "select defaut shell" -> /usr/bin/zsh
+In Vs Code :  [ Ctrl ] + [ Shift ] + [ p ] -> "select defaut shell" -> `/usr/bin/zsh`
 * [Hyper.js - electron based terminal](https://hyper.is/)
 * [Install powerline fonts for windows 10](https://medium.com/@slmeng/how-to-install-powerline-fonts-in-windows-b2eedecace58)
 * [Configure Hyper for wsl](https://evdokimovm.github.io/windows/zsh/shell/syntax/highlighting/ohmyzsh/hyper/terminal/2017/02/24/how-to-install-zsh-and-oh-my-zsh-on-windows-10.html)
