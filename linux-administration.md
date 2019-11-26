@@ -1,7 +1,11 @@
 # Linux administration
 
 [Back home](README.md)
+## Install zsh and prezto
 
+```bash
+sudo apt-get install zsh
+```
 * [Prezto shell - zsh based shell](https://github.com/sorin-ionescu/prezto)
 * [Hyper.js - electron based terminal](https://hyper.is/)
 * [Install powerline fonts for windows 10](https://medium.com/@slmeng/how-to-install-powerline-fonts-in-windows-b2eedecace58)
