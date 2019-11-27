@@ -19,7 +19,15 @@ fontFamily: '"Ubuntu Mono derivative Powerline", DejaVu Sans Mono for Powerline,
 ## VS Code font with ligature
 
 * Download font : https://github.com/i-tu/Hasklig/releases
-* 
+settings.json
+```json
+    "editor.fontFamily": "Hasklig", 
+    "editor.fontLigatures": true,
+```
+Font in terminal (to work well with powerlevel10k prompt
+```json
+"terminal.integrated.fontFamily": "MesloLGS NF"
+```
 
 ## Know which distribution it is
 
