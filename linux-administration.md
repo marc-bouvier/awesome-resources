@@ -16,6 +16,11 @@ Change the configuration for fonts in hyper.js config
 fontFamily: '"Ubuntu Mono derivative Powerline", DejaVu Sans Mono for Powerline, Consolas, Lucida Console, monospace',
 ```
 
+## VS Code font with ligature
+
+* Download font : https://github.com/i-tu/Hasklig/releases
+* 
+
 ## Know which distribution it is
 
 ```
