@@ -62,6 +62,7 @@
 
 
 https://medium.com/the-new-agilist/how-to-define-done-for-your-scrum-team-30b7f8ed073b)
+
 ## Operations
 
 * [Web Hosting](hosting.md)
@@ -78,7 +79,7 @@ https://medium.com/the-new-agilist/how-to-define-done-for-your-scrum-team-30b7f8
 
 ## android
 
-* [Android best practices](https://developer.android.com/jetpack/docs/guide)
+* [Android guide to app architecture](https://developer.android.com/jetpack/docs/guide)
 
 
 ## Softwares architecture
