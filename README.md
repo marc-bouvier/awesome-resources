@@ -76,6 +76,11 @@ https://medium.com/the-new-agilist/how-to-define-done-for-your-scrum-team-30b7f8
 * [Count number of lines of code with `cloc`](https://github.com/AlDanial/cloc)
 * [tests et couverture de code](https://blog.ippon.fr/2019/07/22/80-ou-90-de-couverture-de-tests/)
 
+## android
+
+* [Android best practices](https://developer.android.com/jetpack/docs/guide)
+
+
 ## Softwares architecture
 
 
