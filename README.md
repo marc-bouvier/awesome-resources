@@ -140,6 +140,10 @@ So basically: fuck Thiel and all the SV gatekeepers who follow him, and their sp
 
 https://twitter.com/jezhumble/status/1185954360338968581
 
+## Low tech, innovation frugale, Green IT
+
+* https://artisandeveloppeur.fr/2039-06-le-pic-de-developpeurs-avec-jean-baptiste-dusseaut/
+* https://www.mobicoop.fr/
 
 ## Freelance
 
