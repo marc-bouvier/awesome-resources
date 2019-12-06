@@ -124,6 +124,7 @@ https://medium.com/the-new-agilist/how-to-define-done-for-your-scrum-team-30b7f8
 
 * [Decoupling database migrations from server startup: why and how](https://pythonspeed.com/articles/schema-migrations-server-startup/)
 * [public APIs](https://github.com/public-apis/public-apis/blob/master/README.md)
+
 ## Sécurité
 
 [Sécurité](security.md)
@@ -165,6 +166,10 @@ https://twitter.com/jezhumble/status/1185954360338968581
 ## Permaculture
 
 [permaculture](permaculture.md)
+
+## Life hacks
+
+* [Hacking your work life __ balance to take over the world - Jennifer Wadella](https://www.youtube.com/watch?v=-ifCEO_RZJI&app=desktop)
 
 ## Contributing open source
 
