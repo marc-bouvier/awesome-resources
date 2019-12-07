@@ -62,6 +62,7 @@
 ## Practices worth following
 
 * [S.O.L.I.D infography](https://gearsoftesting.org/testable-architecture.html)
+* [Crafting software repos](https://gitlab.com/crafting-software)
 
 
 ## people Wirth following
