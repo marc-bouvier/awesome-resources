@@ -58,6 +58,7 @@
 
 * [BDD overview](https://cucumber.io/docs/bdd/overview/)
 * [Hiptest](https://hiptest.com/)
+* [Behavior Driven Development avec Cédric Rup](https://www.cafe-craft.fr/10)
 
 ## Practices worth following
 
