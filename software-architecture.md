@@ -59,7 +59,7 @@
 * [BDD overview](https://cucumber.io/docs/bdd/overview/)
 * [Hiptest](https://hiptest.com/)
 * [Behavior Driven Development avec Cédric Rup](https://www.cafe-craft.fr/10)
-* [Gherkin karaoké](https://www.meetup.com/Software-Crafters-Strasbourg/events/260665694/)
+* [Gherkin karaoké](https://www.meetup.com/Software-Crafters-Strasbourg/events/260665694/), inspiré de la [formation BDD](https://www.arolla.fr/training/bdd-behaviour-driven-development/) de Yann Danot [@YDanot](https://twitter.com/YDanot) que j'ai suivie chez [Arolla](https://www.arolla.fr/training/#)
 
 ## Practices worth following
 
