@@ -59,6 +59,7 @@
 * [BDD overview](https://cucumber.io/docs/bdd/overview/)
 * [Hiptest](https://hiptest.com/)
 * [Behavior Driven Development avec Cédric Rup](https://www.cafe-craft.fr/10)
+* [Gherkin karaoké](https://www.meetup.com/Software-Crafters-Strasbourg/events/260665694/)
 
 ## Practices worth following
 
