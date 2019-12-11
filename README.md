@@ -45,6 +45,9 @@
 * [Lonely coaches sodality - google group](  https://groups.google.com/forum/m/#!forum/lonely-coaches-sodality)
 * [Building Trust in Teams - Richard Campbell](https://www.youtube.com/watch?v=sQCRvdBZHKA) 
 * [Building Great Teams - Donna Edwards](https://www.youtube.com/watch?v=ErrWPojWFp4)
+* [ma définition d'architecte](ma-definition-architecte.md)
+
+
 ## Methodology
 
 * [Idéal flow - identify thé right problèmes to solve. That cause pain](   https://leanpub.com/ideaflow  )
@@ -85,8 +88,11 @@ https://medium.com/the-new-agilist/how-to-define-done-for-your-scrum-team-30b7f8
 ## Softwares architecture
 
 
-[Tests done the right way](https://gitlab.com/crafting-software/katas/) TDD, solid principles repo
-[Software architecture](software-architecture.md)
+* [Tests done the right way](https://gitlab.com/crafting-software/katas/) TDD, solid principles repo
+* [Software architecture](software-architecture.md)
+* [ma définition d'architecte](ma-definition-architecte.md)
+
+
 
 ## Presentations / Katas / learning
 
