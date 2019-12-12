@@ -151,6 +151,7 @@ https://twitter.com/jezhumble/status/1185954360338968581
 
 * https://artisandeveloppeur.fr/2039-06-le-pic-de-developpeurs-avec-jean-baptiste-dusseaut/
 * https://www.mobicoop.fr/
+* https://fairness.coop/
 
 ## Freelance
 
