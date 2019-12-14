@@ -69,6 +69,8 @@
 
 https://medium.com/the-new-agilist/how-to-define-done-for-your-scrum-team-30b7f8ed073b)
 
+* revue de code : Café Craft: Episode 1: Aligner les équipes avec Sébastien Roccaserra https://www.cafe-craft.fr/1
+
 ## Operations
 
 * [Web Hosting](hosting.md)
