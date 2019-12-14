@@ -48,6 +48,7 @@
 * [Building Trust in Teams - Richard Campbell](https://www.youtube.com/watch?v=sQCRvdBZHKA) 
 * [Building Great Teams - Donna Edwards](https://www.youtube.com/watch?v=ErrWPojWFp4)
 * [ma définition d'architecte](ma-definition-architecte.md)
+* [Jessica Kerr thread : An organization is a sociotechnical system or ecosystem that is shaped by the interaction of individuals and the teams within it](https://docs.google.com/document/d/1gfRzqMRg-B9pYpJW7s-tooK-E-kTrzjySdO4oL869Is/edit?usp=sharing)
 
 
 ## Methodology
