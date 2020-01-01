@@ -45,3 +45,8 @@ ps -p $$
 
 * [How to create user and add it to sudoers](https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-debian-8)
 
+## Memory consumption
+
+```bash
+ps aux --sort=-%mem | awk 'NR<=10{print $0}'
+```
