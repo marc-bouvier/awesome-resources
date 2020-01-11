@@ -1,4 +1,4 @@
-[Dashboard][dashboard.md]
+[Dashboard](dashboard.md)
 
 ## Enseigner
 
