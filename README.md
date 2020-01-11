@@ -1,8 +1,12 @@
+[Dashboard][dashboard.md]
+
 ## Enseigner
 
 * dans les écoles on n'apprend pas à faire du code de qualité
   * enseigner le beau code, TDD, détecter les code smell-> UV de contribution à un projet open source
 * https://soundcloud.com/michael-az-948266686/les-vices-de-lagilite-qualifier-de-qualite-ce-qui-nen-est-pas-une-habitude-dans-le-monde-it-daujourdhui
+
+
 
 ## working environment
 
