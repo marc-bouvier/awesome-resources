@@ -3,7 +3,7 @@
 
 |                     |                     |                     |                     |                     |                     |
 | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| [Framagit][1]       | [dev.tube][2]       | [haveibeenpwned][3] | [dev.to][4]         | [Ron Jeffries][5]   |                     |
+| [Framagit][1]       | [dev.tube][2]       | [haveibeenpwned][3] | [dev.to][4]         | [Ron Jeffries][5]   | [Venkatesh Rao][6]  |
 |                     |                     |                     |                     |                     |                     |
 |                     |                     |                     |                     |                     |                     |
 |                     |                     |                     |                     |                     |                     |
@@ -22,7 +22,7 @@
 [3]:https://haveibeenpwned.com/
 [4]:https://dev.to/
 [5]:https://www.ronjeffries.com/
-[6]:
+[6]:https://breakingsmart.substack.com/people/2264734
 [7]:
 [8]:
 [9]:
