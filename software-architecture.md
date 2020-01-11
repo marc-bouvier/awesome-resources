@@ -3,7 +3,7 @@
 ## tips 
 
 * review your own code from 3 months ago (this will work on your pride)
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Qualities of a Highly Effect Architect by <a href="https://twitter.com/venkat_s?ref_src=twsrc%5Etfw">@venkat_s</a> at <a href="https://twitter.com/denverjug?ref_src=twsrc%5Etfw">@denverjug</a> <a href="https://twitter.com/hashtag/sketchnotes?src=hash&amp;ref_src=twsrc%5Etfw">#sketchnotes</a> <a href="https://t.co/4wH4kAOUDp">pic.twitter.com/4wH4kAOUDp</a></p>&mdash; Chiu-Ki Chan (@chiuki) <a href="https://twitter.com/chiuki/status/1215124158578692096?ref_src=twsrc%5Etfw">January 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Retour](README.md)
 
