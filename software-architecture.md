@@ -67,6 +67,10 @@
 * [S.O.L.I.D infography](https://gearsoftesting.org/testable-architecture.html)
 * [Crafting software repos](https://gitlab.com/crafting-software)
 
+# Musc
+
+* conceptual spaces with annotations : https://speakerdeck.com/cyriux/conceptual-spaces-a-confirmation-of-the-old-intuitions-from-programming-languages?slide=38
+
 
 ## people Wirth following
 
