@@ -50,6 +50,8 @@
 
 ## Microservices architecture
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you hear &quot;Monolith over Microservices for the initial pass at a product,&quot; do not confuse that with &quot;Big ball of mud pile of spaghetti with no organizing principles or real architecture and random tendrils out to a tightly coupled database over Microservices.&quot; 1/3</p>&mdash; Allen Holub (@allenholub) <a href="https://twitter.com/allenholub/status/1220118174739374081?ref_src=twsrc%5Etfw">January 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 * [Distributed transaction - Saga pattern](https://microservices.io/patterns/data/saga.html)
 * [Thoughtworks from monolith to πservive
 * [Martin Fowler - Micriservices architecture] (https://martinfowler.com/articles/microservices.html)
