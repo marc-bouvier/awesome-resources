@@ -68,6 +68,9 @@
 
 * [S.O.L.I.D infography](https://gearsoftesting.org/testable-architecture.html)
 * [Crafting software repos](https://gitlab.com/crafting-software)
+* [ The wall of technical dept ](http://verraes.net/2020/01/wall-of-technical-debt/)
+  * make it visible. Negotiate
+
 
 # Musc
 
