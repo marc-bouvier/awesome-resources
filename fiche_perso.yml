@@ -1,6 +1,8 @@
-name: Marc
-surnale: Bouvier
+name: 'Marc'
+surnale: 'Bouvier'
 
 # skills list of multiple fields.
 skills:
-  - 
+  - name: 'java'
+    stars: 7
+    nextToLearn: 'todo'
