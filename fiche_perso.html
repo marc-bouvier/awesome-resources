@@ -16,7 +16,12 @@
                 message: 'Hello Vue!'
             },
             created(){
-                $.getJSON("fiche_perso.json", (jsonData)=>{
+                fetch("fiche_perso.json")
+                .then((response)=>{
+                    
+                    return response.json();
+                })
+                .then((jsonData)=>{
                     console.log(jsonData)
                 })
             }
