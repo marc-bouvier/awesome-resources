@@ -9,16 +9,21 @@
     <div id="app">
         <h1>{{characterSheet.name}} {{characterSheet.surname}}</h1>
         <div v-for="skill in characterSheet.skills" :key="skill.name">
-            <skill :skill="skill"></skill>
+            <skill :name="skill.name" :starsNumber="skill.starsNumber" :nextToLearn="skill.nextToLearn"></skill>
         </div>
     </div>
     <script>
         Vue.component('skill', {
-            template: '<div>{{name}} {{stars(stars)}}</div>',
+            template: '<div>{{name}} {{stars}}</div>',
             props: {
-                "name": "",
-                "stars": 0,
-                "nextToLearn": ""
+                "name": { type: String, default: "" },
+                "starsNumber": { type: Number, default: 0 },
+                "nextToLearn": { type: String, default: "" }
+            },
+            computed: {
+                stars(amount){
+                    return this.stars(amount);
+                }
             },
             methods: {
                 stars(amount, of = 10, amountIcon = "⭐", ofIcon = "◼") {
