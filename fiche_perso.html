@@ -24,12 +24,14 @@
                     }
                 }
             },
-            data: {
-                name: "",
-                starsNumber: 0,
-                nextToLearn: ""
+            data() {
+                return {
+                    name: "",
+                    starsNumber: 0,
+                    nextToLearn: ""
+                }
             },
-            mounted(){
+            mounted() {
                 this.name = this.skill.name
                 this.starsNumber = this.skill.starsNumber
                 this.nextToLearn = this.skill.nextToLearn
@@ -50,17 +52,19 @@
 
         var app = new Vue({
             el: '#app',
-            data: {
-                characterSheet: {
-                    name: "",
-                    surname: "",
-                    "skills": [
-                        {
-                            "name": "",
-                            "starsNumber": 0,
-                            "nextToLearn": ""
-                        }
-                    ]
+            data() {
+                return {
+                    characterSheet: {
+                        name: "",
+                        surname: "",
+                        "skills": [
+                            {
+                                "name": "",
+                                "starsNumber": 0,
+                                "nextToLearn": ""
+                            }
+                        ]
+                    }
                 }
             },
             mounted() {
