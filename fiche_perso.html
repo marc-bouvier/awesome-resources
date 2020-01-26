@@ -26,13 +26,14 @@
                 }
             },
             created() {
+                var self=this;
                 fetch("fiche_perso.json")
                     .then((response) => {
 
                         return response.json();
                     })
                     .then((jsonData) => {
-                        this.$set(this.characterSheet, jsonData)
+                        self.$set(self.characterSheet, jsonData)
                     })
             }
         })
