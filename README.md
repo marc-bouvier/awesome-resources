@@ -39,6 +39,10 @@
 * [opérateurs cloud compliant secnumcloud](https://www.ssi.gouv.fr/entreprise/qualifications/prestataires-de-services-de-confiance-qualifies/prestataires-de-service-dinformatique-en-nuage-secnumcloud/)
 * [Dev oops Pierre by Antoine Grégoire](https://www.youtube.com/watch?v=Pg3uPXTDFbk&feature=emb_title)
 
+# Design patterns
+
+* [Cloud Design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+* [Java design patterns](https://github.com/iluwatar/java-design-patterns)
 
 ## Tools
 
