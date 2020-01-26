@@ -4,7 +4,7 @@
   "skills": [
     {
       "name": "java",
-      "stars": 7,
+      "starsNumber": 7,
       "nextToLearn": "todo"
     }
   ]
