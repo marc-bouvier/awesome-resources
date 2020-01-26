@@ -7,23 +7,33 @@
 
 <body>
     <div id="app">
-        {{ message }}
+        <h1>{{name}} {{surname}</h1>
     </div>
     <script>
         var app = new Vue({
             el: '#app',
             data: {
-                message: 'Hello Vue!'
+                characterSheet: {
+                    name: "",
+                    surname: "",
+                    "skills": [
+                        {
+                            "name": "",
+                            "stars": 0,
+                            "nextToLearn": ""
+                        }
+                    ]
+                }
             },
-            created(){
+            created() {
                 fetch("fiche_perso.json")
-                .then((response)=>{
-                    
-                    return response.json();
-                })
-                .then((jsonData)=>{
-                    console.log(jsonData)
-                })
+                    .then((response) => {
+
+                        return response.json();
+                    })
+                    .then((jsonData) => {
+                        this.$set(this.characterSheet, jsonData)
+                    })
             }
         })
     </script>
