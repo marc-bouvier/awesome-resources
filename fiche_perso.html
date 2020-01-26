@@ -21,8 +21,8 @@
                 "nextToLearn": { type: String, default: "" }
             },
             computed: {
-                stars(amount){
-                    return this.stars(amount);
+                stars(){
+                    return this.stars(this.starsNumber);
                 }
             },
             methods: {
