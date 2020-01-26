@@ -14,6 +14,11 @@
             el: '#app',
             data: {
                 message: 'Hello Vue!'
+            },
+            created(){
+                $.getJSON("fiche_perso.json", (jsonData)=>{
+                    console.log(jsonData)
+                })
             }
         })
     </script>
