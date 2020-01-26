@@ -24,9 +24,19 @@
                     }
                 }
             },
+            data: {
+                "name": "",
+                "starsNumber": 0,
+                "nextToLearn": ""
+            },
+            mount(){
+                this.name = this.skill.name
+                this.starsNumber = this.skill.starsNumber
+                this.nextToLearn = this.skill.nextToLearn
+            },
             computed: {
                 stars: function () {
-                    return this.stars(this.skill.starsNumber);
+                    return this.stars(this.starsNumber);
                 }
             },
             methods: {
