@@ -8,6 +8,9 @@
 <body>
     <div id="app">
         <h1>{{characterSheet.name}} {{characterSheet.surname}}</h1>
+        <div v-for="skill in characterSheet.skills" v-id="skill.name">
+            <div>{{stars(skill.stars)}}</div>
+        </div>
     </div>
     <script>
         var app = new Vue({
@@ -35,6 +38,11 @@
                     .then((jsonData) => {
                         self.$set(self,"characterSheet", jsonData)
                     })
+            },
+            methods: {
+                stars(amount, of=10,amountIcon="⭐",ofIcon="◼"){
+                    return amountIcon.repeat(amount).padEnd(of,ofIcon)
+                }
             }
         })
     </script>
