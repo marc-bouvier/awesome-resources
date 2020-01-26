@@ -43,8 +43,8 @@
                 }
             },
             methods: {
-                formatStars(amount, of = 10, amountIcon = "⭐", ofIcon = "◻") {
-                    return amountIcon.repeat(amount).padEnd(of, ofIcon)
+                formatStars(amount, dunningKrugerStages = "💩😮😐😀😁😨😱😤😎🐱‍👤") {
+                    return dunningKrugerStages.substr(0,amount * 2)
                 }
             }
         })
@@ -82,6 +82,18 @@
 
         })
     </script>
+
+
+1 know nothing : 💩
+2 heard of it : 😮
+3 did 1 tuto : 😐
+4 think I am pretty good : 😀
+5 think I am the best (peak of mount stupid) : 😁
+6 falling to valley of despair : 😨
+7 at the bottom of the valley of despair : 😱
+8 reaching slope of enlightenment 😤
+9 reaching plateau of sustainability 😎
+10 master 🐱‍👤
 </body>
 
 </html>
