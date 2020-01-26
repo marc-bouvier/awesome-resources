@@ -33,7 +33,7 @@
                         return response.json();
                     })
                     .then((jsonData) => {
-                        self.$set(self.characterSheet, jsonData)
+                        self.$set(self,"characterSheet", jsonData)
                     })
             }
         })
