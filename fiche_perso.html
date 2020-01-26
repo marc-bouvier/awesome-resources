@@ -9,7 +9,7 @@
     <div id="app">
         <h1>{{characterSheet.name}} {{characterSheet.surname}}</h1>
         <div v-for="skill in characterSheet.skills" :key="skill.name">
-            <skill :name="skill.name" :starsNumber="skill.starsNumber" :nextToLearn="skill.nextToLearn"></skill>
+            <skill :name="skill.name" :stars-number="skill.starsNumber" :next-to-learn="skill.nextToLearn"></skill>
         </div>
     </div>
     <script>
@@ -30,7 +30,6 @@
                     return amountIcon.repeat(amount).padEnd(of, ofIcon)
                 }
             }
-
         })
     </script>
     <script>
