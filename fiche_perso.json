@@ -1,0 +1,9 @@
+{
+  "name": "Marc",
+  "surname": "Bouvier",
+  "skills": {
+    "name": "java",
+    "stars": 7,
+    "nextToLearn": "todo"
+  }
+}
