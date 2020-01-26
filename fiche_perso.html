@@ -9,10 +9,27 @@
     <div id="app">
         <h1>{{characterSheet.name}} {{characterSheet.surname}}</h1>
         <div v-for="skill in characterSheet.skills" v-id="skill.name">
-            <div>{{stars(skill.stars)}}</div>
+            <skill :skill="skill"></skill>
         </div>
     </div>
     <script>
+        Vue.component('skill', {
+            template: '<div>{{name}} {{stars(stars)}}</div>',
+            props: {
+                "name": "",
+                "stars": 0,
+                "nextToLearn": ""
+            },
+            methods: {
+                stars(amount, of = 10, amountIcon = "⭐", ofIcon = "◼") {
+                    return amountIcon.repeat(amount).padEnd(of, ofIcon)
+                }
+            }
+
+        })
+    </script>
+    <script>
+
         var app = new Vue({
             el: '#app',
             data: {
@@ -29,21 +46,17 @@
                 }
             },
             created() {
-                var self=this;
+                var self = this;
                 fetch("fiche_perso.json")
                     .then((response) => {
 
                         return response.json();
                     })
                     .then((jsonData) => {
-                        self.$set(self,"characterSheet", jsonData)
+                        self.$set(self, "characterSheet", jsonData)
                     })
-            },
-            methods: {
-                stars(amount, of=10,amountIcon="⭐",ofIcon="◼"){
-                    return amountIcon.repeat(amount).padEnd(of,ofIcon)
-                }
             }
+
         })
     </script>
 </body>
