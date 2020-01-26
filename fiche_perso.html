@@ -8,7 +8,7 @@
 <body>
     <div id="app">
         <h1>{{characterSheet.name}} {{characterSheet.surname}}</h1>
-        <div v-for="skill in characterSheet.skills" v-id="skill.name">
+        <div v-for="skill in characterSheet.skills" :key="skill.name">
             <skill :skill="skill"></skill>
         </div>
     </div>
