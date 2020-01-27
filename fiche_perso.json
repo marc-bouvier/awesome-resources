@@ -6,6 +6,16 @@
       "name": "java",
       "starsNumber": 8,
       "nextToLearn": "todo"
+    },
+    {
+      "name": "javascript",
+      "starsNumber": 6,
+      "nextToLearn": "todo"
+    },
+    {
+      "name": "kotlin",
+      "starsNumber": 4,
+      "nextToLearn": "todo"
     }
   ]
 }
