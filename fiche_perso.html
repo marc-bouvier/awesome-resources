@@ -5,6 +5,11 @@
 <head>
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     <title></title>
+    <style>
+        .skill {
+            display: table-cell
+        }
+    </style>
 </head>
 
 <body>
@@ -16,7 +21,11 @@
     </div>
     <script>
         Vue.component('skill', {
-            template: '<div>{{name}} {{formattedStars}}</div>',
+            template:
+                "<div>" +
+                "   <div>{{name}}</div>" +
+                "   <div>{{formattedStars}}</div>" +
+                "</div>",
             props: {
                 skill: {
                     type: Object, default: {
@@ -124,7 +133,8 @@
         </p>
         <p>
             Over-confident and under-estimates experts. At the top of mount of stupidity.
-            4 😁Have a good knowledge about it and thinks has not much more to learn ("I know this is THE best solution for this problem").
+            4 😁Have a good knowledge about it and thinks has not much more to learn ("I know this is THE best solution
+            for this problem").
             4/
         </p>
         <p>
