@@ -6,23 +6,24 @@
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     <title></title>
     <style>
-        .skill {
-            display: table-cell
-        }
+    /* .skills */
+    /* .skills_item*/
     </style>
 </head>
 
 <body>
     <div id="app">
         <h1>{{characterSheet.name}} {{characterSheet.surname}}</h1>
-        <div v-for="skill of characterSheet.skills" :key="skill.name">
+        <div class="skills" v-for="skill of characterSheet.skills" :key="skill.name">
             <skill :skill="skill"></skill>
         </div>
     </div>
     <script>
+        // TODO : CSS grid for layout
+        // CSS BEM naming convention : http://getbem.com/naming/
         Vue.component('skill', {
             template:
-                "<div class='skill'>" +
+                "<div class='skills_item'>" +
                 "   <div>{{name}}</div>" +
                 "   <div>{{formattedStars}}</div>" +
                 "</div>",
