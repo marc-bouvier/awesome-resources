@@ -27,8 +27,8 @@
 <body>
     <div id="app">
         <h1>{{characterSheet.name}} {{characterSheet.surname}}</h1>
-        <div class="skills" v-for="skill of characterSheet.skills" :key="skill.name">
-            <skill :skill="skill"></skill>
+        <div class="skills" >
+            <skill v-for="skill of characterSheet.skills" :key="skill.name" :skill="skill"></skill>
         </div>
     </div>
     <script>
