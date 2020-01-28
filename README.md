@@ -216,3 +216,7 @@ https://twitter.com/jezhumble/status/1185954360338968581
 ## Motivation
 
 * [« Bien sûr que tu vas rater, alors fait le ! » Bruno Muschio (Navo) - 10 clés de la réussite](https://www.youtube.com/watch?v=5TcMSg9lDUc)
+
+## Work in progress
+
+* [Character sheet](character-sheet.html) - display CV as a RPG character sheet (+ skill view based on Dunning Kruger effect)
