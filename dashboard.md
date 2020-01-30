@@ -4,7 +4,7 @@
 |                       |                     |                     |                     |                     |                     |
 | --------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [Framagit][1]         | [dev.tube][2]       | [haveibeenpwned][3] | [dev.to][4]         | [Ron Jeffries][5]   | [Venkatesh Rao][6]  |
-| [Mathieu Barberot][7] | [Awesome OS][8]     | [Je suis un dev][9] | [codewars][10]      |                     |                     |
+| [Mathieu Barberot][7] | [Awesome OS][8]     | [Je suis un dev][9] | [codewars][10]      |                     | [Getting Started with Agility: Essential Reading][11] |
 |                       |                     |                     |                     |                     |                     |
 |                       |                     |                     |                     |                     |                     |
 |                       |                     |                     |                     |                     |                     |
@@ -27,7 +27,7 @@
 [8]:https://awesomeopensource.com/
 [9]:https://www.jesuisundev.com/
 [10]:https://www.codewars.com/
-[11]:
+[11]:https://holub.com/reading
 [12]:
 [13]:
 [14]:
