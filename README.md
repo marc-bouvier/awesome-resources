@@ -21,6 +21,7 @@
 * [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog)
 * [Conventional Changelog - Generate a CHANGELOG from git metadata](https://github.com/conventional-changelog/conventional-changelog)
 * [vscode-changelog-generator](https://github.com/axetroy/vscode-changelog-generator)
+* [VSCode planner extension]() - planning tasks with markdown
  
 ## accessibility
 
