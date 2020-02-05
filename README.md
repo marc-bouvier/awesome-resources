@@ -109,6 +109,7 @@ https://medium.com/the-new-agilist/how-to-define-done-for-your-scrum-team-30b7f8
 
 ## Softwares architecture
 
+* [living documentation](living-documentation.md)
 * [adr- architecture decisions records](adr.md)
 * [Tests done the right way](https://gitlab.com/crafting-software/katas/) TDD, solid principles repo
 * [Software architecture](software-architecture.md)
