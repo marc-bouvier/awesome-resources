@@ -67,6 +67,7 @@
 * [ma définition d'architecte](ma-definition-architecte.md)
 * [Jessica Kerr thread : An organization is a sociotechnical system or ecosystem that is shaped by the interaction of individuals and the teams within it](https://docs.google.com/document/d/1gfRzqMRg-B9pYpJW7s-tooK-E-kTrzjySdO4oL869Is/edit?usp=sharing)
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I want to talk about value today, and especially want to consider an idea I call multivalence, which seems quite central to putting the change-harvesting ideas to work.</p>&mdash; GeePaw Hill (@GeePawHill) <a href="https://twitter.com/GeePawHill/status/1228011833841344513?ref_src=twsrc%5Etfw">February 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Methodology
 
