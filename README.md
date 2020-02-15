@@ -147,6 +147,7 @@ https://medium.com/the-new-agilist/how-to-define-done-for-your-scrum-team-30b7f8
 
 ## Transition écologique
 
+* [Tech and climate change resources](tech-and-climate-change.md)
 * [recycler 80% de ses déchets](https://m.facebook.com/story.php?story_fbid=2401188840100050&id=1459728890912721)
 * [Ferme des Quatre Temps: quelles leçons pour la politique de l'innovation en agriculture?](https://www.linkedin.com/pulse/ferme-des-quatre-temps-quelles-le%25C3%25A7ons-pour-la-de-en-brice-thollet/?trackingId=b2nS1YkCS1%2BWCc4aVsJkJw%3D%3D)
   * [Labyrinthe de l'installation en permaculture](https://www.dropbox.com/s/tlzqj1on33nnzk1/Labyrinthe-a-l-installation%20v2.pdf)
