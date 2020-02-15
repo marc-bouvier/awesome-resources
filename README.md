@@ -61,6 +61,9 @@
 
 ## Leadership
 
+[Manifestos](manifestos.md)
+
+
 * [Lonely coaches sodality - google group](  https://groups.google.com/forum/m/#!forum/lonely-coaches-sodality)
 * [Building Trust in Teams - Richard Campbell](https://www.youtube.com/watch?v=sQCRvdBZHKA) 
 * [Building Great Teams - Donna Edwards](https://www.youtube.com/watch?v=ErrWPojWFp4)
