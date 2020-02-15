@@ -31,6 +31,7 @@
 ## agile
 
 * https://les-tilleuls.coop/fr
+* https://www.facilitateurs-alsace.org/events/
 
 ## Cloud
 
