@@ -228,3 +228,11 @@ https://twitter.com/jezhumble/status/1185954360338968581
 ## Work in progress
 
 * [Character sheet](character-sheet.html) - display CV as a RPG character sheet (+ skill view based on Dunning Kruger effect)
+
+# Learning
+
+*[Julia Evans zones](https://wizardzines.com/zines-team/) 
+
+
+
+
