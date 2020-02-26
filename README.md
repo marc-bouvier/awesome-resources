@@ -231,7 +231,7 @@ https://twitter.com/jezhumble/status/1185954360338968581
 
 # Learning
 
-*[Julia Evans zones](https://wizardzines.com/zines-team/) 
+* [Julia Evans zones](https://wizardzines.com/zines-team/) 
 
 
 
