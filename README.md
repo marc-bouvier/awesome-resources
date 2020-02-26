@@ -32,6 +32,7 @@
 
 * https://les-tilleuls.coop/fr
 * https://www.facilitateurs-alsace.org/events/
+* [GOTO 2015 • Agile is Dead • Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 
 ## Cloud
 
