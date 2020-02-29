@@ -21,6 +21,16 @@ All is stored in the same database schema.
 
 # A question from our stakeholder
 
+Our main sponsor and stakeholder is our CEO. Our company
+is the first user of our product. This allow us to have useful
+and realistic feedback. This additionally adds
+a strategic and financial input to the business value
+of the features we develop.
+
+Our CEO asked this questions. Can we ensure our customers that their data won't be
+mixed with data of other customers? Can we ensure that
+a peak of usage on a customer won't affect the performance of other customers?
+
 
 
 
