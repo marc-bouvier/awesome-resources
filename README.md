@@ -112,6 +112,9 @@ https://medium.com/the-new-agilist/how-to-define-done-for-your-scrum-team-30b7f8
 
 * [Android guide to app architecture](https://developer.android.com/jetpack/docs/guide)
 
+## Front-end
+
+* [VueJs in 2020 - Why? and comparison with other frameworks](https://youtu.be/eiUgVa2Td_k?t=330)
 
 ## Softwares architecture
 
