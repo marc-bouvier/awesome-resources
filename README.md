@@ -88,7 +88,7 @@
 
 * [Agile un 4 steps](   https://kalele.io/what-you-need-from-agile/)
 * [workshop for definition of done](
-
+* [Event storming your workflow](https://medium.com/@ntcoding/remote-team-flow-eventstorming-for-retrospectives-a8ea33cdb277)
 
 https://medium.com/the-new-agilist/how-to-define-done-for-your-scrum-team-30b7f8ed073b)
 
