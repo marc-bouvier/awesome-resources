@@ -1,4 +1,4 @@
-[Dashboard](dashboard.md)
+dashboard.md[Dashboard]
 
 include::values-causes-and-manifestos/manifestos.adoc[]
 
