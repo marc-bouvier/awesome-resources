@@ -1,5 +1,9 @@
 .Useful links
 |===
+| 
+| 
+| 
+
 | https://framagit.org/[Framagit][1]         
 | https://dev.tube/[dev.tube][2]       
 | https://haveibeenpwned.com/[haveibeenpwned][3]
