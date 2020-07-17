@@ -1,8 +1,8 @@
 .Useful links
 |===
-| 
-| 
-| 
+| &nbsp;
+| &nbsp;
+| &nbsp;
 
 | https://framagit.org/[Framagit][1]         
 | https://dev.tube/[dev.tube][2]       
