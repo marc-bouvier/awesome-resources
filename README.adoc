@@ -1,5 +1,7 @@
 [Dashboard](dashboard.md)
 
+include::values-causes-and-manifestos/manifestos.adoc[]
+
 ## Enseigner
 
 * dans les écoles on n'apprend pas à faire du code de qualité
