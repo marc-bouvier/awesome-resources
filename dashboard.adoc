@@ -1,9 +1,6 @@
 .Useful links
-[%header,cols=3*] 
+[cols=3*] 
 |===
-| &nbsp;
-| &nbsp;
-| &nbsp;
 
 | https://framagit.org/[Framagit]         
 | https://dev.tube/[dev.tube]      
