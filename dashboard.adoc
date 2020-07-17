@@ -1,4 +1,5 @@
 .Useful links
+[%header,cols=3*] 
 |===
 | &nbsp;
 | &nbsp;
