@@ -5,23 +5,23 @@
 | &nbsp;
 | &nbsp;
 
-| https://framagit.org/[Framagit][1]         
-| https://dev.tube/[dev.tube][2]       
-| https://haveibeenpwned.com/[haveibeenpwned][3]
+| https://framagit.org/[Framagit]         
+| https://dev.tube/[dev.tube]      
+| https://haveibeenpwned.com/[haveibeenpwned]
 
-| https://dev.to/[dev.to][4]         
-| https://www.ronjeffries.com/[Ron Jeffries][5]   
-| https://breakingsmart.substack.com/people/2264734[Venkatesh Rao][6]
+| https://dev.to/[dev.to]
+| https://www.ronjeffries.com/[Ron Jeffries]
+| https://breakingsmart.substack.com/people/2264734[Venkatesh Rao]
 
-| https://mbarberot.gitlab.io/[Mathieu Barberot][7] 
-| https://awesomeopensource.com/[Awesome Open Source][8]     
-| https://www.jesuisundev.com/[Je suis un dev][9] 
+| https://mbarberot.gitlab.io/[Mathieu Barberot]
+| https://awesomeopensource.com/[Awesome Open Source]
+| https://www.jesuisundev.com/[Je suis un dev]
 
-| https://www.codewars.com/[codewars][10]      
-| https://holub.com/reading[shodo.io][11]      
-| https://shodo.io/[Getting Started with Agility: Essential Reading][11]
+| https://www.codewars.com/[codewars] 
+| https://holub.com/reading[shodo.io]
+| https://shodo.io/[Getting Started with Agility: Essential Reading]
 
-| https://xn--aza-dma.net/[azaé.net][13]
+| https://xn--aza-dma.net/[azaé.net]
 |
 |
 
