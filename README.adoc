@@ -1,3 +1,7 @@
+TODO: https://github.com/marketplace/actions/github-pages-action
+
+:toc:
+
 link:dashboard.adoc[Dashboard]
 
 include::values-causes-and-manifestos/manifestos.adoc[]
