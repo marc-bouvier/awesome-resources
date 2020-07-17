@@ -1,0 +1,9 @@
+:toc:
+
+# Soft-skills
+
+* https://medium.com/@indiyoung
+* http://www.indiyoung.com/
+* [Practical Empathy][book-practical-empathy] - book - empathy accessible for programmers
+
+[book-practical-empathy]:http://rosenfeldmedia.com/books/practical-empathy/

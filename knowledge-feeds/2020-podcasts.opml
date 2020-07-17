@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<opml version="2.0">
+  <head>
+    <title>AntennaPod Subscriptions</title>
+    <dateCreated>14 Jul 20 14:44:43 +0200</dateCreated>
+  </head>
+  <body>
+    <outline text="3 Petits Chats" title="3 Petits Chats" type="rss" xmlUrl="https://feed.pippa.io/public/shows/5d1e2cb76af1fb286d9699cc" htmlUrl="https://feeds.acast.com/public/shows/3-petits-chats" />
+    <outline text="ActifsRadio, La radio de l'ESS" title="ActifsRadio, La radio de l'ESS" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:120627419/sounds.rss" htmlUrl="http://www.actifsradio.fr" />
+    <outline text="Artisan Développeur" title="Artisan Développeur" type="rss" xmlUrl="https://feed.ausha.co/BxW2S9Mex0Vb" htmlUrl="https://artisandeveloppeur.fr/" />
+    <outline text="BonheurPourTous.info" title="BonheurPourTous.info" type="rss" xmlUrl="http://bonheurpourtous.info/feed.xml" htmlUrl="http://bonheurpourtous.info" />
+    <outline text="Café Craft" title="Café Craft" type="rss" xmlUrl="https://feeds.fireside.fm/cafe-craft/rss" htmlUrl="https://www.cafe-craft.fr" />
+    <outline text="Chronique Citoyenne : Chambre Régionale de l'Economie Sociale et Solidaire" title="Chronique Citoyenne : Chambre Régionale de l'Economie Sociale et Solidaire" type="rss" xmlUrl="https://rcf.fr/emission/feed/181446" htmlUrl="https://rcf.fr/vie-quotidienne/solidarite/chronique-citoyenne-chambre-regionale-de-leconomie-sociale-et-solidaire-d" />
+    <outline text="Complete Developer Podcast" title="Complete Developer Podcast" type="rss" xmlUrl="https://completedeveloperpodcast.com/feed/podcast/" htmlUrl="https://completedeveloperpodcast.com" />
+    <outline text="CoRecursive with Adam Gordon Bell" title="CoRecursive with Adam Gordon Bell" type="rss" xmlUrl="https://link.chtbl.com/corecursive?platform=rss" htmlUrl="http://corecursive.com" />
+    <outline text="Developer Tea" title="Developer Tea" type="rss" xmlUrl="https://feeds.simplecast.com/dLRotFGk" htmlUrl="http://www.developertea.com" />
+    <outline text="Elixir Mix" title="Elixir Mix" type="rss" xmlUrl="https://feeds.feedwrench.com/elixirmix.rss" htmlUrl="https://devchat.tv/elixir-mix" />
+    <outline text="Elixir Talk" title="Elixir Talk" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:334579745/sounds.rss" htmlUrl="http://soundcloud.com/elixirtalk" />
+    <outline text="Elixir Wizards" title="Elixir Wizards" type="rss" xmlUrl="https://feeds.fireside.fm/smartlogic/rss" htmlUrl="https://smartlogic.io/podcast/elixir-wizards" />
+    <outline text="Elm Town" title="Elm Town" type="rss" xmlUrl="https://rss.simplecast.com/podcasts/3995/rss" htmlUrl="https://elmtown.github.io/" />
+    <outline text="IFTTD - If This Then Dev" title="IFTTD - If This Then Dev" type="rss" xmlUrl="https://rss.art19.com/ifttd-if-this-then-dev" htmlUrl="https://art19.com/shows/ifttd-if-this-then-dev" />
+    <outline text="Javascript to Elm" title="Javascript to Elm" type="rss" xmlUrl="https://feeds.transistor.fm/jstoelm" htmlUrl="http://jstoelm.com" />
+    <outline text="L'ENVOL" title="L'ENVOL" type="rss" xmlUrl="https://www.europe1.fr/rss/podcasts/lenvol.xml" htmlUrl="https://www.europe1.fr/emissions/l-envol" />
+    <outline text="Le Ruby Nouveau" title="Le Ruby Nouveau" type="rss" xmlUrl="https://lerubynouveau.fr/feed.xml" htmlUrl="https://lerubynouveau.fr/" />
+    <outline text="Legacy Code Rocks" title="Legacy Code Rocks" type="rss" xmlUrl="https://legacycoderocks.libsyn.com/rss" htmlUrl="http://legacycode.rocks" />
+    <outline text="Les Cast Codeurs Podcast" title="Les Cast Codeurs Podcast" type="rss" xmlUrl="https://lescastcodeurs.libsyn.com/rss" htmlUrl="https://lescastcodeurs.com" />
+    <outline text="Nonviolent Communication - Marshall Rosenberg's NVC Training" title="Nonviolent Communication - Marshall Rosenberg's NVC Training" type="rss" xmlUrl="https://anchor.fm/s/1373b44c/podcast/rss" htmlUrl="https://github.com/cognitivetech/Marshall-Rosenberg-NVC" />
+    <outline text="Paumé.e.s" title="Paumé.e.s" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:476497011/sounds.rss" htmlUrl="https://makesense.org/paume-e-s/" />
+    <outline text="Présages" title="Présages" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:386462807/sounds.rss" htmlUrl="http://www.presages.fr" />
+    <outline text="Quarkus Insights" title="Quarkus Insights" type="rss" xmlUrl="http://feeds.feedburner.com/quarkusinsights" htmlUrl="https://youtube.com/playlist?list=PLsM3ZE5tGAVatO65JIxgskQh-OKoqM4F2" />
+    <outline text="Radio DevOps" title="Radio DevOps" type="rss" xmlUrl="https://feeds.acast.com/public/shows/radio-devops" htmlUrl="https://www.compagnons-devops.fr/" />
+    <outline text="Software Engineering Radio - The Podcast for Professional Software Developers" title="Software Engineering Radio - The Podcast for Professional Software Developers" type="rss" xmlUrl="http://feeds.feedburner.com/se-radio" htmlUrl="https://www.se-radio.net" />
+    <outline text="Techologie" title="Techologie" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:555069720/sounds.rss" htmlUrl="https://techologie.net" />
+    <outline text="The NVCpractice.com Podcast" title="The NVCpractice.com Podcast" type="rss" xmlUrl="https://nvcpractice.libsyn.com/rss" htmlUrl="http://nvcpractice.com" />
+    <outline text="Vieille Branche" title="Vieille Branche" type="rss" xmlUrl="https://rss.art19.com/vieille-branche" htmlUrl="https://art19.com/shows/vieille-branche" />
+    <outline text="Vlan!" title="Vlan!" type="rss" xmlUrl="https://feeds.audiomeans.fr/feed/8ca7aac1-479f-471c-b3a4-8b487e552bff.xml" htmlUrl="https://www.gregorypouy.fr/podcast-1" />
+    <outline text="VÉCUS - Une carrière qui a du sens." title="VÉCUS - Une carrière qui a du sens." type="rss" xmlUrl="https://feeds.acast.com/public/shows/5d47e7d3acdd5ca230211bf9" htmlUrl="https://www.vecus.org/" />
+    <outline text="Your Undivided Attention" title="Your Undivided Attention" type="rss" xmlUrl="https://feeds.simplecast.com/rZ0cYk12" htmlUrl="https://your-undivided-attention.simplecast.com" />
+  </body>
+</opml>
