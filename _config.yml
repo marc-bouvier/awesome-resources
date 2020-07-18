@@ -9,5 +9,7 @@ footer-links:
   github: marc-bouvier
   linkedin: profileofmarcbouvier
 
-asciidoc: {}
+
+asciidoc:
+  ext: asciidoc,adoc,ad
 asciidoctor: {}
