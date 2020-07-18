@@ -1,4 +1,4 @@
 group :jekyll_plugins do
   gem 'jekyll-asciidoc'
-  gem "github-pages
+  gem 'github-pages'
 end
