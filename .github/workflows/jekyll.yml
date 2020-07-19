@@ -1,27 +1,30 @@
-name: github pages
+name: Testing the GitHub Pages publication
 
 on:
-  push:
-    branches:
-      - master
-
+  push
+    
 jobs:
-  deploy:
+  jekyll:
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v2
-        with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-          
-      - name: Jekyll Actions
-        uses: helaili/jekyll-action@2.0.3
+    - uses: actions/checkout@v2
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          enable_jekyll: true
+    # Use GitHub Actions' cache to shorten build times and decrease load on servers
+    - uses: actions/cache@v1
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
 
-
+    # Standard usage
+    - uses:  helaili/jekyll-action@2.0.3
+      env:
+        JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+    
+    # Specify the Jekyll source location as a parameter
+    - uses: helaili/jekyll-action@2.0.3
+      env:
+        JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+      with:
+        jekyll_src: 'sample_site'
