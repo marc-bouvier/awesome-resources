@@ -12,4 +12,10 @@ footer-links:
 
 asciidoc:
   ext: asciidoc,adoc,ad
-asciidoctor: {}
+asciidoctor:
+  base_dir: :docdir
+  safe: unsafe
+  attributes:
+    - idseparator=_
+    - source-highlighter=coderay
+    - icons=font
