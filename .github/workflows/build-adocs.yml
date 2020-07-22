@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - develop
+    - master
 jobs:
   build-adocs:
     runs-on: ubuntu-18.04
