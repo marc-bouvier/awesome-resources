@@ -3,14 +3,13 @@ name: update_docs
 on:
   push:
     branches:
-    - develop
     - master
 jobs:
   build-adocs:
     runs-on: ubuntu-18.04
     name: asciidoc builder
     steps:
-    - name: Checkout (develop)
+    - name: Checkout (master)
       uses: actions/checkout@v2
     - name: Get new doc updates 
       run: |
@@ -18,7 +17,7 @@ jobs:
            git fetch
            git checkout --track origin/gh-pages
            rm -rf docs/*
-           git restore -s develop docs
+           git restore -s master docs
     - name: Setup python
       uses: actions/setup-python@v1
       with:
