@@ -1,30 +1,45 @@
-name: Testing the GitHub Pages publication
+name: update_docs
 
 on:
-  push
-    
+  push:
+    branches:
+    - develop
 jobs:
-  jekyll:
+  build-adocs:
     runs-on: ubuntu-18.04
+    name: asciidoc builder
     steps:
-    - uses: actions/checkout@v2
-
-    # Use GitHub Actions' cache to shorten build times and decrease load on servers.
-    - uses: actions/cache@v1
+    - name: Checkout (develop)
+      uses: actions/checkout@v2
+    - name: Get new doc updates 
+      run: |
+           git remote update
+           git fetch
+           git checkout --track origin/gh-pages
+           rm -rf docs/*
+           git restore -s develop docs
+    - name: Setup python
+      uses: actions/setup-python@v1
       with:
-        path: vendor/bundle
-        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-gems-
-
-    # Standard usage
-    - uses:  helaili/jekyll-action@2.0.3
-      env:
-        JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
-    
-    # Specify the Jekyll source location as a parameter
-    - uses: helaili/jekyll-action@2.0.3
-      env:
-        JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+        python-version: 3.7.6
+    - name: install dependencies
+      run: |
+           sudo apt-get install pandoc -y
+           pip3 install -r docs/utils/requirements.txt
+           docs/utils/generate_parms.py
+    - name: Build documentation
+      id: adoc
+      uses: andrew-glenn/nosalt@master
       with:
-        jekyll_src: 'sample_site'
+          program: "asciidoctor --backend=html5 -o index.html -a toc2 docs/index.adoc"
+    - name: Stage changes gh-pages
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -a -m "Staging develop documentation"
+    - name: Push updates to gh-pages
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GH_TOKEN }}
+        branch: gh-pages
