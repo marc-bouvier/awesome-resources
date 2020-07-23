@@ -1,5 +1,4 @@
 name: update_docs
-# inspired by : https://github.com/aws-quickstart/quickstart-aws-vpc
 
 on:
   push:
@@ -27,7 +26,7 @@ jobs:
       run: |
            sudo apt-get install pandoc -y
            pip3 install -r docs/utils/requirements.txt
-           sudo python3 docs/utils/generate_parms.py
+           docs/utils/generate_parms.py
     - name: Build documentation
       id: adoc
       uses: avattathil/asciidoctor-action@master
