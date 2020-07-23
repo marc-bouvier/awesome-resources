@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Asciidoctor 2.0.10">
-<title>Untitled</title>
+<title>Building a Modular and Scalable Virtual Network Architecture with Amazon VPC</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
 /* Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
@@ -435,18 +435,435 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 #footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
 @media amzn-kf8{#header,#content,#footnotes,#footer{padding:0}}
 </style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-<body class="article">
+<body class="article toc2 toc-left">
 <div id="header">
+<h1>Building a Modular and Scalable Virtual Network Architecture with Amazon VPC</h1>
+<div id="toc" class="toc2">
+<div id="toctitle">Quick Start Reference Deployment</div>
+<ul class="sectlevel1">
+<li><a href="#_about_this_guide">About this guide</a></li>
+<li><a href="#_overview">Overview</a></li>
+<li><a href="#_quick_links">Quick Links</a></li>
+<li><a href="#_cost">Cost</a></li>
+<li><a href="#_architecture">Architecture</a>
+<ul class="sectlevel2">
+<li><a href="#_aws_services">AWS Services</a></li>
+<li><a href="#_best_practices">Best Practices</a></li>
+<li><a href="#_subnet_sizing">Subnet Sizing</a></li>
+</ul>
+</li>
+<li><a href="#_deployment_steps">Deployment Steps</a>
+<ul class="sectlevel2">
+<li><a href="#_step_1_prepare_an_aws_account">Step 1 Prepare An AWS Account</a></li>
+<li><a href="#_step_2_launch_the_stack">Step 2 Launch the stack</a></li>
+<li><a href="#_step_3_add_aws_services_or_other_applications">Step 3. Add AWS Services or Other Applications</a></li>
+<li><a href="#_troubleshoot">Troubleshoot</a></li>
+<li><a href="#_security">Security</a></li>
+</ul>
+</li>
+<li><a href="#_github_repository">GitHub Repository</a></li>
+<li><a href="#_document_revisions">Document Revisions</a></li>
+</ul>
+</div>
 </div>
 <div id="content">
+<div class="sect1">
+<h2 id="_about_this_guide">About this guide</h2>
+<div class="sectionbody">
 <div class="paragraph">
-<p>test</p>
+<p>Unresolved directive in index.adoc - include::include/common/about_this_guide.adoc[]</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_overview">Overview</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Unresolved directive in index.adoc - include::include/overview.adoc[]</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_quick_links">Quick Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Unresolved directive in index.adoc - include::include/quicklink.adoc[]</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_cost">Cost</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Unresolved directive in index.adoc - include::include/common/cost.adoc[]</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_architecture">Architecture</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Unresolved directive in index.adoc - include::include/architecture.adoc[]</p>
+</div>
+<div class="sect2">
+<h3 id="_aws_services">AWS Services</h3>
+<div class="paragraph">
+<p>Unresolved directive in index.adoc - include::include/generated/services.adoc[]</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_best_practices">Best Practices</h3>
+<div class="paragraph">
+<p>Unresolved directive in index.adoc - include::include/best_practice.adoc[]</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_subnet_sizing">Subnet Sizing</h3>
+<div class="paragraph">
+<p>Unresolved directive in index.adoc - include::include/subnet_sizing.adoc[]</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_deployment_steps">Deployment Steps</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Follow the step-by-step instructions in this section to build the
+virtual network environment illustrated in <a href="#figure1">Figure 1</a> in
+your AWS account. The AWS CloudFormation template provided with this
+Quick Start bootstraps the AWS networking infrastructure on the AWS
+Cloud from scratch.</p>
+</div>
+<div class="sect2">
+<h3 id="_step_1_prepare_an_aws_account">Step 1 Prepare An AWS Account</h3>
+<div class="paragraph">
+<p>Unresolved directive in index.adoc - include::include/common/prepare_an_aws_ccount.adoc[]</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_step_2_launch_the_stack">Step 2 Launch the stack</h3>
+<div class="paragraph">
+<p>Unresolved directive in index.adoc - include::include/launch_the_stack.adoc[]</p>
+</div>
+<div class="sect3">
+<h4 id="_parameters">Parameters</h4>
+<div class="admonitionblock important">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-important" title="Important"></i>
+</td>
+<td class="content">
+Last Change to input parameters on: 2020-07-23 20:54:06
+</td>
+</tr>
+</table>
+</div>
+<div id="availability-zone-configuration" class="paragraph">
+<p>Availability zone Configuration</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 27%;">
+<col style="width: 11%;">
+<col style="width: 62%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Parameter label (name)</th>
+<th class="tableblock halign-left valign-top">Default</th>
+<th class="tableblock halign-left valign-top">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Availability Zones</strong>(<code>AvailabilityZones</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Requires Input</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">List
+of Availability Zones to use for the subnets in the VPC. Note: The
+logical order is preserved.</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Number of Availability Zones</strong>(<code>NumberOfAZs</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">2</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Number of
+Availability Zones to use in the VPC. This must match your selections in
+the list of Availability Zones parameter.</p></td>
+</tr>
+</tbody>
+</table>
+<div id="network-configuration" class="paragraph">
+<p>Network Configuration</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 29%;">
+<col style="width: 4%;">
+<col style="width: 67%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Parameter label (name)</th>
+<th class="tableblock halign-left valign-top">Default</th>
+<th class="tableblock halign-left valign-top">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>VPC CIDR</strong>(<code>VPCCIDR</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10.0.0.0/16</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">CIDR block for the VPC</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Public subnet 1 CIDR</strong>(<code>PublicSubnet1CIDR</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10.0.128.0/20</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">CIDR
+block for the public DMZ subnet 1 located in Availability Zone 1</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Public subnet 2 CIDR</strong>(<code>PublicSubnet2CIDR</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10.0.144.0/20</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">CIDR
+block for the public DMZ subnet 2 located in Availability Zone 2</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Public subnet 3 CIDR</strong>(<code>PublicSubnet3CIDR</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10.0.160.0/20</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">CIDR
+block for the public DMZ subnet 3 located in Availability Zone 3</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Public subnet 4 CIDR</strong>(<code>PublicSubnet4CIDR</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10.0.176.0/20</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">CIDR
+block for the public DMZ subnet 4 located in Availability Zone 4</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tag for Public Subnets</strong>(<code>PublicSubnetTag1</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Network=Public</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">tag to
+add to public subnets, in format Key=Value (Optional)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tag for Public Subnets</strong>(<code>PublicSubnetTag2</code>)</p></td>
+<td class="tableblock halign-left valign-top"></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">tag to add to public
+subnets, in format Key=Value (Optional)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tag for Public Subnets</strong>(<code>PublicSubnetTag3</code>)</p></td>
+<td class="tableblock halign-left valign-top"></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">tag to add to public
+subnets, in format Key=Value (Optional)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Create private subnets</strong>(<code>CreatePrivateSubnets</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">true</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Set to false
+to create only public subnets. If false, the CIDR parameters for ALL
+private subnets will be ignored.</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Private subnet 1A CIDR</strong>(<code>PrivateSubnet1ACIDR</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10.0.0.0/19</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">CIDR
+block for private subnet 1A located in Availability Zone 1</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Private subnet 2A CIDR</strong>(<code>PrivateSubnet2ACIDR</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10.0.32.0/19</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">CIDR
+block for private subnet 2A located in Availability Zone 2</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Private subnet 3A CIDR</strong>(<code>PrivateSubnet3ACIDR</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10.0.64.0/19</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">CIDR
+block for private subnet 3A located in Availability Zone 3</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Private subnet 4A CIDR</strong>(<code>PrivateSubnet4ACIDR</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10.0.96.0/19</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">CIDR
+block for private subnet 4A located in Availability Zone 4</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tag for Private A Subnets</strong>(<code>PrivateSubnetATag1</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Network=Private</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">tag to add to private subnets A, in format Key=Value (Optional)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tag for Private A Subnets</strong>(<code>PrivateSubnetATag2</code>)</p></td>
+<td class="tableblock halign-left valign-top"></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">tag to add to
+private subnets A, in format Key=Value (Optional)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tag for Private A Subnets</strong>(<code>PrivateSubnetATag3</code>)</p></td>
+<td class="tableblock halign-left valign-top"></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">tag to add to
+private subnets A, in format Key=Value (Optional)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Create additional private subnets with dedicated network
+ACLs</strong>(<code>CreateAdditionalPrivateSubnets</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">false</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Set to true to create a
+network ACL protected subnet in each Availability Zone. If false, the
+CIDR parameters for those subnets will be ignored. If true, it also
+requires that the 'Create private subnets' parameter is also true to
+have any effect.</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Private subnet 1B with dedicated network ACL
+CIDR</strong>(<code>PrivateSubnet1BCIDR</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10.0.192.0/21</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">CIDR block for private
+subnet 1B with dedicated network ACL located in Availability Zone 1</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Private subnet 2B with dedicated network ACL
+CIDR</strong>(<code>PrivateSubnet2BCIDR</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10.0.200.0/21</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">CIDR block for private
+subnet 2B with dedicated network ACL located in Availability Zone 2</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Private subnet 3B with dedicated network ACL
+CIDR</strong>(<code>PrivateSubnet3BCIDR</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10.0.208.0/21</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">CIDR block for private
+subnet 3B with dedicated network ACL located in Availability Zone 3</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Private subnet 4B with dedicated network ACL
+CIDR</strong>(<code>PrivateSubnet4BCIDR</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10.0.216.0/21</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">CIDR block for private
+subnet 4B with dedicated network ACL located in Availability Zone 4</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tag for Private B Subnets</strong>(<code>PrivateSubnetBTag1</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Network=Private</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">tag to add to private subnets B, in format Key=Value (Optional)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tag for Private B Subnets</strong>(<code>PrivateSubnetBTag2</code>)</p></td>
+<td class="tableblock halign-left valign-top"></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">tag to add to
+private subnets B, in format Key=Value (Optional)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tag for Private B Subnets</strong>(<code>PrivateSubnetBTag3</code>)</p></td>
+<td class="tableblock halign-left valign-top"></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">tag to add to
+private subnets B, in format Key=Value (Optional)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>VPC Tenancy</strong>(<code>VPCTenancy</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">default</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">The allowed tenancy of
+instances launched into the VPC</p></td>
+</tr>
+</tbody>
+</table>
+<div id="deprecated-nat-instance-configuration" class="paragraph">
+<p>DEPRECATED: NAT Instance Configuration</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 46%;">
+<col style="width: 8%;">
+<col style="width: 46%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Parameter label (name)</th>
+<th class="tableblock halign-left valign-top">Default</th>
+<th class="tableblock halign-left valign-top">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>DEPRECATED: Key pair name</strong>(<code>KeyPairName</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">deprecated</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">DEPRECATED.
+NAT gateways are now supported in all regions.</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>DEPRECATED: NAT instance type</strong>(<code>NATInstanceType</code>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">deprecated</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">DEPRECATED. NAT gateways are now supported in all regions.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_step_3_add_aws_services_or_other_applications">Step 3. Add AWS Services or Other Applications</h3>
+<div class="paragraph">
+<p>Unresolved directive in index.adoc - include::include/other_applications.adoc[]</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_troubleshoot">Troubleshoot</h3>
+<div class="paragraph">
+<p>Unresolved directive in index.adoc - include::include/common/troubleshoot.adoc[]</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_security">Security</h3>
+<div class="paragraph">
+<p>Unresolved directive in index.adoc - include::include/common/security.adoc[]</p>
+</div>
+<div class="paragraph">
+<p><strong>Quick Start reference deployments</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>AWS Quick Start home page<br>
+<a href="https://aws.amazon.com/quickstart/" class="bare">https://aws.amazon.com/quickstart/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_github_repository">GitHub Repository</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>You can visit our [GitHub repository] to download
+the templates and scripts for this Quick Start, to post your comments,
+and to share your customizations with others.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_document_revisions">Document Revisions</h2>
+<div class="sectionbody">
+<div class="admonitionblock tip">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-tip" title="Tip"></i>
+</td>
+<td class="content">
+See releases in git <a href="https://github.com/aws-quickstart/quickstart-aws-vpc/releases" class="bare">https://github.com/aws-quickstart/quickstart-aws-vpc/releases</a>
+</td>
+</tr>
+</table>
+</div>
+</div>
 </div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2020-07-23 20:46:41 UTC
+Last updated 2020-07-23 20:53:39 UTC
 </div>
 </div>
 </body>
