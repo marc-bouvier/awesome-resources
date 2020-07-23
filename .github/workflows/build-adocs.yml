@@ -1,4 +1,5 @@
 name: update_docs
+# inspired by : https://github.com/aws-quickstart/quickstart-aws-vpc
 
 on:
   push:
