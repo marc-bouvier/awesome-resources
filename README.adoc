@@ -4,7 +4,7 @@ TODO: https://github.com/marketplace/actions/github-pages-action
 
 link:dashboard.adoc[Dashboard]
 
-include::values-causes-and-manifestos/manifestos.adoc[]
+include::values-causes-and-manifestos/manifestos.adoc[] 
 
 ## Enseigner
 
